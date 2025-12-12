@@ -1,0 +1,22 @@
+{
+    "total_clientes": 200,
+    "total_visitas": 1632,
+    "receita_total_geral": 1226178.1400000001,
+    "satisfacao_media_cliente": 3.0104166666666665,
+    "distribuicao_segmentos_rfm": {
+        "Hibernating": 63,
+        "Promising": 26,
+        "About to sleep": 23,
+        "At risk": 21,
+        "Champions": 17,
+        "Loyal customer": 17,
+        "Cannot lose them": 16,
+        "Potential loyalist": 10,
+        "New customers": 7
+    },
+    "top_3_servicos": {
+        "Revis\u00e3o": 179,
+        "Pintura": 179,
+        "Balanceamento": 175
+    }
+}
