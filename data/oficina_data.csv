@@ -1,0 +1,1001 @@
+data_servico,id_cliente,nome_cliente,veiculo_marca,veiculo_modelo,ano_veiculo,tipo_servico,valor_servico,status_pagamento,satisfacao_cliente
+2023-10-17,CLI0087,Gabriela Lima,Honda,Civic,2013,Suspensão,137.09,Pago,4
+2022-04-25,CLI0020,Gabriela Lima,Hyundai,Creta,2011,Troca de Óleo,1435.63,Pago,1
+2022-01-26,CLI0127,Olivia Santos,Hyundai,Elantra,2014,Suspensão,433.76,Pendente,1
+2022-10-09,CLI0175,Nuno Fernandes,Hyundai,Tucson,2015,Elétrica,688.83,Pago,2
+2022-09-08,CLI0089,Ana Silva,BMW,Série 1,2013,Elétrica,763.0,Pago,2
+2022-08-17,CLI0139,Luiz Martins,Toyota,RAV4,2010,Revisão,1396.45,Pago,2
+2022-05-23,CLI0181,Sofia Carvalho,Mercedes-Benz,Classe C,2020,Freios,934.94,Pago,2
+2022-04-15,CLI0010,Tiago Rodrigues,Honda,Civic,2013,Balanceamento,308.74,Pago,5
+2023-11-24,CLI0160,Kelly Vieira,Honda,CR-V,2018,Elétrica,763.48,Pago,4
+2023-07-13,CLI0059,Gabriela Lima,Chevrolet,Cruze,2022,Elétrica,258.62,Pago,3
+2022-03-31,CLI0075,Maria Ribeiro,Ford,Ranger,2015,Pintura,1164.63,Pago,3
+2023-08-28,CLI0030,Eduarda Souza,Ford,EcoSport,2016,Alinhamento,366.66,Pago,5
+2023-03-09,CLI0107,Tiago Rodrigues,Ford,Ranger,2017,Revisão,982.84,Pago,4
+2022-02-02,CLI0114,Isabela Rocha,Audi,Q3,2017,Suspensão,1373.28,Pago,2
+2022-01-31,CLI0159,Joao Pereira,Kia,Sportage,2010,Pneus,1087.33,Pago,1
+2022-04-06,CLI0034,Gabriela Lima,Chevrolet,Cruze,2010,Revisão,199.77,Pago,5
+2022-08-12,CLI0016,Pedro Almeida,Audi,A4,2020,Pintura,155.73,Pago,5
+2022-08-27,CLI0175,Nuno Fernandes,Toyota,RAV4,2015,Alinhamento,878.45,Pago,2
+2023-06-02,CLI0124,Quiteria Barbosa,Mercedes-Benz,GLA,2011,Alinhamento,413.36,Pago,5
+2023-09-09,CLI0049,Tiago Rodrigues,Mercedes-Benz,Classe A,2021,Freios,696.53,Pendente,3
+2022-01-28,CLI0183,Gabriela Lima,Toyota,Yaris,2018,Suspensão,1349.94,Pago,2
+2023-07-29,CLI0029,Nuno Fernandes,Honda,Fit,2020,Revisão,265.84,Pago,3
+2022-07-23,CLI0093,Ricardo Teixeira,Chevrolet,Tracker,2023,Revisão,978.49,Pendente,2
+2023-10-28,CLI0051,Hugo Neves,Volkswagen,Polo,2014,Pneus,1402.7,Pendente,1
+2023-12-20,CLI0052,Carla Dias,BMW,X1,2023,Elétrica,1013.68,Pago,3
+2023-07-13,CLI0002,Ricardo Teixeira,Hyundai,Elantra,2021,Freios,436.33,Pago,2
+2023-03-06,CLI0161,Bruno Costa,Audi,Q3,2014,Pintura,1065.08,Pendente,5
+2022-08-14,CLI0181,Sofia Carvalho,Chevrolet,Onix,2019,Balanceamento,1361.7,Pendente,5
+2023-04-05,CLI0136,Luiz Martins,Honda,CR-V,2018,Motor,883.23,Pago,4
+2023-08-27,CLI0032,Eduarda Souza,Kia,Sportage,2019,Troca de Óleo,797.31,Pago,2
+2022-10-12,CLI0089,Ana Silva,Ford,EcoSport,2012,Revisão,1412.87,Pago,1
+2022-01-07,CLI0070,Sofia Carvalho,Mercedes-Benz,Classe A,2016,Freios,761.49,Pago,4
+2022-06-13,CLI0118,Joao Pereira,Ford,Ranger,2020,Freios,682.28,Pago,5
+2023-12-16,CLI0128,Maria Ribeiro,Honda,HR-V,2016,Pneus,1273.87,Pago,1
+2023-03-09,CLI0085,Joao Pereira,Honda,Civic,2015,Troca de Óleo,1182.36,Pago,2
+2022-12-15,CLI0051,Hugo Neves,Audi,Q3,2019,Suspensão,1188.8,Pago,5
+2022-10-12,CLI0170,Maria Ribeiro,Mercedes-Benz,GLC,2020,Pneus,833.19,Pendente,4
+2022-06-09,CLI0040,Tiago Rodrigues,Volkswagen,Virtus,2023,Revisão,54.8,Pago,5
+2022-08-09,CLI0077,Daniel Melo,BMW,X1,2011,Troca de Óleo,1433.53,Pago,3
+2022-12-11,CLI0097,Luiz Martins,Volkswagen,Polo,2018,Pintura,1236.07,Pago,4
+2022-04-15,CLI0048,Felipe Gomes,BMW,Série 1,2014,Elétrica,749.0,Pendente,5
+2022-04-05,CLI0115,Ricardo Teixeira,Mercedes-Benz,Classe A,2016,Freios,872.5,Pago,4
+2023-01-25,CLI0115,Ricardo Teixeira,Ford,Ranger,2013,Elétrica,1405.81,Pago,2
+2022-04-10,CLI0199,Quiteria Barbosa,Ford,Ranger,2018,Suspensão,570.43,Pago,3
+2023-01-03,CLI0060,Maria Ribeiro,Audi,Q3,2016,Motor,1038.66,Pago,3
+2022-12-19,CLI0196,Daniel Melo,Hyundai,Elantra,2015,Pneus,630.89,Pago,5
+2023-09-11,CLI0132,Maria Ribeiro,Toyota,Yaris,2023,Motor,966.8,Pago,4
+2022-09-28,CLI0055,Joao Pereira,Volkswagen,Gol,2023,Alinhamento,1440.29,Pago,4
+2022-02-14,CLI0114,Isabela Rocha,Audi,A4,2015,Motor,181.47,Pago,4
+2023-04-16,CLI0138,Ana Silva,Toyota,Hilux,2017,Suspensão,825.21,Pago,3
+2023-07-04,CLI0149,Carla Dias,BMW,Série 3,2022,Pneus,1443.34,Pago,5
+2022-05-08,CLI0010,Tiago Rodrigues,Toyota,RAV4,2017,Suspensão,166.66,Pago,4
+2023-01-23,CLI0122,Quiteria Barbosa,BMW,X3,2019,Revisão,716.48,Pago,5
+2022-03-22,CLI0100,Bruno Costa,BMW,Série 3,2010,Motor,1161.44,Pendente,1
+2023-07-20,CLI0181,Sofia Carvalho,BMW,Série 1,2018,Troca de Óleo,989.3,Pago,2
+2022-10-28,CLI0058,Ana Silva,Honda,Civic,2012,Pintura,306.1,Pago,2
+2023-10-06,CLI0160,Kelly Vieira,Chevrolet,Onix,2017,Revisão,107.03,Pago,2
+2023-09-26,CLI0122,Quiteria Barbosa,BMW,X1,2012,Pintura,607.04,Pago,4
+2023-01-06,CLI0071,Daniel Melo,Honda,HR-V,2013,Freios,326.95,Pago,2
+2023-08-15,CLI0128,Maria Ribeiro,Ford,Ranger,2011,Alinhamento,1059.03,Pago,4
+2022-07-16,CLI0125,Quiteria Barbosa,BMW,X1,2018,Troca de Óleo,1349.87,Pago,2
+2023-12-23,CLI0136,Luiz Martins,Toyota,RAV4,2020,Motor,964.39,Pago,3
+2022-03-13,CLI0145,Carla Dias,BMW,X1,2014,Pintura,570.93,Pendente,4
+2022-02-16,CLI0132,Maria Ribeiro,Hyundai,Elantra,2013,Suspensão,173.05,Pago,4
+2023-11-09,CLI0168,Nuno Fernandes,Volkswagen,Polo,2012,Motor,967.55,Pago,5
+2022-08-22,CLI0126,Kelly Vieira,BMW,Série 3,2012,Elétrica,1116.22,Pago,2
+2022-10-24,CLI0181,Sofia Carvalho,Volkswagen,Virtus,2012,Freios,252.92,Pago,3
+2022-03-23,CLI0130,Hugo Neves,Toyota,Hilux,2015,Pneus,329.98,Pago,3
+2022-08-27,CLI0062,Gabriela Lima,Volkswagen,Virtus,2019,Suspensão,1093.62,Pago,5
+2022-04-14,CLI0089,Ana Silva,Hyundai,HB20,2021,Troca de Óleo,909.77,Pago,1
+2023-01-25,CLI0116,Daniel Melo,Audi,A3,2023,Balanceamento,759.39,Pago,2
+2022-10-12,CLI0147,Joao Pereira,Chevrolet,S10,2011,Freios,141.34,Pago,1
+2023-04-10,CLI0019,Olivia Santos,Hyundai,Creta,2020,Alinhamento,833.8,Pago,3
+2023-10-13,CLI0060,Maria Ribeiro,Audi,A3,2013,Pintura,496.21,Pago,4
+2023-01-09,CLI0150,Hugo Neves,BMW,X3,2016,Troca de Óleo,824.21,Pago,5
+2022-06-16,CLI0036,Carla Dias,Toyota,Corolla,2022,Pintura,1259.66,Pago,3
+2023-01-15,CLI0027,Kelly Vieira,Chevrolet,Tracker,2015,Troca de Óleo,701.5,Pago,2
+2022-12-30,CLI0108,Bruno Costa,Toyota,RAV4,2021,Motor,1493.96,Pago,5
+2022-08-03,CLI0195,Joao Pereira,Kia,Sportage,2011,Balanceamento,103.71,Pago,1
+2023-11-18,CLI0107,Tiago Rodrigues,Kia,Rio,2017,Alinhamento,131.28,Pendente,4
+2022-10-01,CLI0183,Gabriela Lima,Toyota,Yaris,2020,Pneus,1192.28,Pendente,5
+2023-12-20,CLI0167,Luiz Martins,Kia,Rio,2017,Elétrica,112.08,Pendente,5
+2023-12-01,CLI0052,Carla Dias,Toyota,Hilux,2017,Pintura,221.37,Pendente,3
+2023-10-26,CLI0165,Joao Pereira,Volkswagen,Polo,2013,Freios,1220.3,Pago,4
+2022-03-15,CLI0097,Luiz Martins,Audi,Q5,2019,Troca de Óleo,1017.61,Pago,4
+2023-09-16,CLI0162,Felipe Gomes,Audi,Q5,2012,Troca de Óleo,714.64,Pago,4
+2023-10-13,CLI0150,Hugo Neves,Kia,Rio,2020,Pneus,1033.21,Pago,4
+2022-06-25,CLI0068,Nuno Fernandes,Mercedes-Benz,GLC,2023,Balanceamento,1317.67,Pago,4
+2023-07-01,CLI0024,Olivia Santos,Volkswagen,Virtus,2016,Balanceamento,265.98,Pago,3
+2022-09-08,CLI0193,Sofia Carvalho,Kia,Cerato,2010,Troca de Óleo,890.05,Pago,4
+2022-06-17,CLI0029,Nuno Fernandes,Chevrolet,S10,2013,Elétrica,1390.98,Pago,3
+2023-04-19,CLI0194,Isabela Rocha,Hyundai,Tucson,2010,Motor,103.47,Pendente,3
+2023-01-24,CLI0173,Hugo Neves,Kia,Rio,2012,Revisão,255.31,Pago,4
+2022-10-04,CLI0145,Carla Dias,Chevrolet,Tracker,2019,Motor,998.06,Pago,1
+2023-10-18,CLI0196,Daniel Melo,Mercedes-Benz,GLC,2019,Freios,733.27,Pago,2
+2023-12-06,CLI0194,Isabela Rocha,Mercedes-Benz,GLC,2012,Suspensão,1381.13,Pago,4
+2023-07-25,CLI0161,Bruno Costa,BMW,X1,2012,Revisão,116.41,Pendente,2
+2022-08-13,CLI0074,Ricardo Teixeira,Mercedes-Benz,GLA,2020,Elétrica,1066.88,Pago,3
+2023-12-03,CLI0159,Joao Pereira,Chevrolet,Onix,2018,Alinhamento,239.28,Pago,1
+2022-11-29,CLI0003,Felipe Gomes,Honda,HR-V,2010,Revisão,299.76,Pago,3
+2022-02-27,CLI0108,Bruno Costa,BMW,X3,2019,Suspensão,122.44,Pago,1
+2022-08-23,CLI0091,Bruno Costa,BMW,Série 3,2012,Pneus,495.64,Pago,3
+2022-02-02,CLI0135,Nuno Fernandes,Audi,A3,2010,Alinhamento,1200.86,Pago,5
+2022-11-20,CLI0135,Nuno Fernandes,Ford,EcoSport,2012,Suspensão,711.47,Pago,5
+2023-02-15,CLI0117,Daniel Melo,Toyota,Hilux,2014,Pintura,297.5,Pago,5
+2022-10-02,CLI0165,Joao Pereira,Toyota,Yaris,2012,Revisão,907.01,Pago,1
+2022-03-09,CLI0189,Nuno Fernandes,Ford,Focus,2018,Revisão,1235.81,Pago,3
+2022-08-05,CLI0022,Pedro Almeida,Mercedes-Benz,GLC,2016,Alinhamento,204.18,Pago,2
+2023-08-04,CLI0047,Tiago Rodrigues,BMW,X3,2019,Pneus,770.86,Pendente,1
+2022-11-19,CLI0006,Nuno Fernandes,BMW,X3,2019,Revisão,1208.8,Pago,1
+2022-08-06,CLI0177,Felipe Gomes,Hyundai,Creta,2020,Balanceamento,369.83,Pago,1
+2023-11-03,CLI0113,Kelly Vieira,Ford,Focus,2010,Alinhamento,1216.46,Pago,3
+2023-05-27,CLI0184,Eduarda Souza,Chevrolet,Tracker,2021,Pneus,668.01,Pago,1
+2023-02-10,CLI0045,Bruno Costa,Ford,EcoSport,2021,Pneus,1226.71,Pago,5
+2023-10-21,CLI0013,Eduarda Souza,Kia,Sportage,2020,Balanceamento,1474.18,Pago,2
+2023-04-15,CLI0165,Joao Pereira,Audi,A4,2023,Pneus,1033.68,Pago,3
+2022-05-27,CLI0182,Daniel Melo,Honda,HR-V,2014,Pneus,520.14,Pago,2
+2022-09-29,CLI0061,Pedro Almeida,Hyundai,Creta,2011,Elétrica,1464.99,Pendente,3
+2022-05-23,CLI0082,Olivia Santos,Volkswagen,Gol,2013,Alinhamento,885.15,Pago,3
+2022-09-10,CLI0028,Hugo Neves,Audi,A4,2017,Elétrica,249.13,Pago,3
+2023-07-29,CLI0190,Ana Silva,Hyundai,Elantra,2019,Suspensão,1262.82,Pago,3
+2023-07-06,CLI0061,Pedro Almeida,Toyota,Corolla,2017,Motor,1200.0,Pago,2
+2022-09-27,CLI0099,Tiago Rodrigues,Ford,Focus,2023,Freios,1158.13,Pago,5
+2023-08-22,CLI0020,Gabriela Lima,Honda,Civic,2017,Elétrica,909.97,Pago,2
+2023-03-15,CLI0178,Kelly Vieira,Toyota,RAV4,2012,Balanceamento,536.48,Pago,5
+2023-08-21,CLI0028,Hugo Neves,BMW,Série 1,2013,Freios,225.08,Pago,3
+2023-02-13,CLI0091,Bruno Costa,Audi,Q5,2023,Balanceamento,254.79,Pago,1
+2023-01-06,CLI0135,Nuno Fernandes,Toyota,Hilux,2016,Alinhamento,651.97,Pago,3
+2022-08-13,CLI0149,Carla Dias,Audi,Q5,2019,Pneus,1059.63,Pago,3
+2022-05-22,CLI0190,Ana Silva,Volkswagen,T-Cross,2012,Elétrica,852.44,Pago,3
+2023-06-06,CLI0084,Eduarda Souza,Ford,EcoSport,2022,Balanceamento,686.06,Pendente,4
+2023-05-21,CLI0149,Carla Dias,Ford,Ka,2019,Motor,1392.23,Pendente,4
+2022-04-04,CLI0031,Ana Silva,Hyundai,Tucson,2023,Motor,109.01,Pago,5
+2022-02-18,CLI0083,Quiteria Barbosa,Toyota,Corolla,2022,Balanceamento,194.95,Pago,1
+2022-04-23,CLI0020,Gabriela Lima,BMW,Série 1,2012,Pneus,1278.68,Pago,4
+2022-06-06,CLI0098,Daniel Melo,Ford,Ranger,2019,Pneus,938.04,Pago,5
+2023-10-05,CLI0082,Olivia Santos,Hyundai,Creta,2020,Freios,1177.61,Pago,2
+2022-06-13,CLI0191,Bruno Costa,Audi,Q5,2018,Pintura,72.66,Pago,4
+2023-11-28,CLI0007,Sofia Carvalho,Chevrolet,Onix,2014,Troca de Óleo,756.1,Pago,2
+2023-03-09,CLI0075,Maria Ribeiro,BMW,X1,2012,Pintura,59.21,Pago,2
+2023-09-03,CLI0089,Ana Silva,Mercedes-Benz,Classe A,2021,Suspensão,310.15,Pago,2
+2022-03-07,CLI0191,Bruno Costa,Chevrolet,Onix,2020,Freios,179.25,Pago,4
+2023-01-30,CLI0172,Eduarda Souza,Chevrolet,Tracker,2015,Motor,995.05,Pago,2
+2023-01-26,CLI0020,Gabriela Lima,Honda,CR-V,2017,Motor,1336.03,Pago,5
+2023-09-03,CLI0138,Ana Silva,Mercedes-Benz,Classe C,2019,Balanceamento,653.52,Pago,5
+2023-04-25,CLI0109,Bruno Costa,Ford,Focus,2019,Revisão,1220.75,Pago,5
+2023-06-26,CLI0196,Daniel Melo,Chevrolet,Tracker,2011,Troca de Óleo,1170.22,Pago,4
+2022-09-15,CLI0072,Olivia Santos,Toyota,Hilux,2013,Pneus,1053.92,Pago,4
+2023-07-21,CLI0080,Isabela Rocha,Kia,Seltos,2016,Revisão,348.93,Pago,3
+2022-01-12,CLI0038,Pedro Almeida,Hyundai,Creta,2016,Pneus,977.75,Pendente,1
+2023-11-28,CLI0025,Ana Silva,Kia,Sportage,2012,Motor,808.48,Pago,3
+2022-04-28,CLI0170,Maria Ribeiro,Mercedes-Benz,Classe C,2011,Freios,647.45,Pago,2
+2023-11-30,CLI0091,Bruno Costa,Volkswagen,Virtus,2010,Pintura,1410.23,Pago,4
+2023-07-04,CLI0133,Joao Pereira,Volkswagen,T-Cross,2013,Troca de Óleo,935.28,Pago,4
+2022-10-01,CLI0129,Olivia Santos,Kia,Sportage,2018,Pneus,104.55,Pago,2
+2023-10-19,CLI0120,Sofia Carvalho,Kia,Seltos,2023,Balanceamento,311.0,Pago,4
+2022-12-15,CLI0005,Quiteria Barbosa,Mercedes-Benz,GLC,2018,Elétrica,774.84,Pago,4
+2022-04-25,CLI0158,Eduarda Souza,Audi,Q5,2020,Elétrica,1427.93,Pago,5
+2022-10-28,CLI0049,Tiago Rodrigues,Chevrolet,S10,2016,Elétrica,959.43,Pago,1
+2023-03-22,CLI0026,Isabela Rocha,Volkswagen,Gol,2023,Revisão,1184.75,Pago,3
+2022-06-11,CLI0113,Kelly Vieira,Honda,Civic,2012,Pintura,554.39,Pago,2
+2023-04-10,CLI0014,Ricardo Teixeira,Chevrolet,Tracker,2019,Suspensão,56.63,Pago,5
+2022-01-04,CLI0154,Bruno Costa,Audi,Q3,2011,Motor,391.68,Pendente,2
+2022-09-27,CLI0042,Isabela Rocha,Volkswagen,Polo,2012,Balanceamento,220.39,Pago,3
+2023-05-28,CLI0044,Isabela Rocha,Hyundai,Tucson,2017,Motor,818.79,Pago,1
+2022-07-02,CLI0174,Sofia Carvalho,Chevrolet,Tracker,2019,Pneus,188.74,Pago,4
+2023-06-04,CLI0066,Isabela Rocha,Audi,A4,2019,Elétrica,574.76,Pago,3
+2022-04-19,CLI0030,Eduarda Souza,Hyundai,Elantra,2010,Motor,1153.64,Pago,3
+2023-10-03,CLI0181,Sofia Carvalho,Kia,Cerato,2022,Troca de Óleo,832.6,Pago,2
+2022-11-02,CLI0001,Olivia Santos,BMW,X1,2018,Troca de Óleo,367.95,Pendente,4
+2023-10-17,CLI0172,Eduarda Souza,Kia,Sportage,2018,Elétrica,1166.98,Pago,4
+2023-06-04,CLI0029,Nuno Fernandes,BMW,Série 1,2022,Pneus,1006.02,Pago,4
+2023-09-16,CLI0026,Isabela Rocha,Honda,Fit,2011,Pintura,450.82,Pendente,5
+2022-07-23,CLI0051,Hugo Neves,Ford,Ranger,2011,Alinhamento,330.89,Pago,3
+2022-06-06,CLI0035,Ricardo Teixeira,Ford,Focus,2017,Pintura,1205.09,Pendente,3
+2023-01-18,CLI0133,Joao Pereira,Mercedes-Benz,Classe A,2020,Pintura,1043.6,Pago,5
+2022-06-15,CLI0006,Nuno Fernandes,Kia,Sportage,2012,Freios,1454.43,Pago,1
+2023-07-07,CLI0003,Felipe Gomes,Hyundai,Tucson,2019,Suspensão,737.9,Pago,5
+2023-06-28,CLI0158,Eduarda Souza,Toyota,Corolla,2018,Suspensão,305.67,Pendente,1
+2022-01-01,CLI0048,Felipe Gomes,Audi,A4,2023,Troca de Óleo,1021.71,Pago,2
+2023-09-06,CLI0065,Nuno Fernandes,Honda,Fit,2010,Elétrica,112.52,Pago,2
+2022-11-28,CLI0035,Ricardo Teixeira,Ford,Ranger,2022,Pneus,985.05,Pago,3
+2023-05-16,CLI0011,Eduarda Souza,Mercedes-Benz,Classe C,2020,Pneus,463.34,Pago,5
+2022-01-20,CLI0149,Carla Dias,Mercedes-Benz,Classe C,2020,Troca de Óleo,680.27,Pago,5
+2022-04-25,CLI0106,Kelly Vieira,Hyundai,Creta,2016,Motor,534.73,Pago,5
+2023-01-07,CLI0150,Hugo Neves,Honda,HR-V,2018,Revisão,1217.47,Pago,5
+2022-11-11,CLI0096,Ricardo Teixeira,Audi,A4,2016,Motor,1149.69,Pendente,4
+2022-09-03,CLI0156,Felipe Gomes,Audi,A3,2015,Freios,112.81,Pago,4
+2022-03-01,CLI0103,Olivia Santos,BMW,Série 1,2023,Troca de Óleo,1123.6,Pago,2
+2022-09-04,CLI0022,Pedro Almeida,Volkswagen,Gol,2010,Elétrica,1391.05,Pago,4
+2023-08-04,CLI0101,Ricardo Teixeira,Hyundai,Elantra,2021,Pneus,305.04,Pendente,1
+2022-03-22,CLI0190,Ana Silva,Chevrolet,Cruze,2018,Alinhamento,1188.96,Pago,5
+2022-03-29,CLI0009,Hugo Neves,Kia,Seltos,2016,Motor,753.34,Pago,4
+2023-05-13,CLI0157,Felipe Gomes,Toyota,RAV4,2013,Motor,218.29,Pago,2
+2022-03-12,CLI0174,Sofia Carvalho,Kia,Rio,2022,Freios,1347.86,Pago,4
+2023-06-30,CLI0105,Luiz Martins,Kia,Sportage,2017,Freios,1096.03,Pago,1
+2022-05-09,CLI0092,Nuno Fernandes,Honda,Fit,2022,Pneus,909.42,Pago,3
+2022-05-12,CLI0193,Sofia Carvalho,Kia,Cerato,2022,Revisão,522.66,Pago,5
+2023-11-07,CLI0013,Eduarda Souza,Volkswagen,Virtus,2016,Troca de Óleo,338.19,Pago,4
+2023-05-02,CLI0096,Ricardo Teixeira,Ford,EcoSport,2015,Motor,1031.44,Pago,3
+2023-07-17,CLI0081,Ricardo Teixeira,Mercedes-Benz,Classe A,2019,Troca de Óleo,522.24,Pago,1
+2022-06-19,CLI0138,Ana Silva,Ford,Ranger,2022,Pneus,1179.51,Pago,2
+2022-09-29,CLI0099,Tiago Rodrigues,Kia,Seltos,2021,Troca de Óleo,522.89,Pago,1
+2023-06-25,CLI0182,Daniel Melo,BMW,X1,2022,Motor,192.19,Pago,5
+2023-09-14,CLI0015,Pedro Almeida,Audi,A4,2023,Elétrica,1119.73,Pago,2
+2023-03-10,CLI0017,Pedro Almeida,Chevrolet,Cruze,2021,Revisão,1311.34,Pago,1
+2022-08-05,CLI0122,Quiteria Barbosa,BMW,Série 1,2019,Revisão,594.52,Pago,5
+2023-07-07,CLI0014,Ricardo Teixeira,Chevrolet,Tracker,2011,Motor,369.96,Pago,4
+2023-12-08,CLI0056,Daniel Melo,Ford,Ranger,2016,Alinhamento,732.94,Pago,1
+2022-07-25,CLI0127,Olivia Santos,BMW,X3,2012,Suspensão,752.39,Pago,2
+2024-01-01,CLI0110,Tiago Rodrigues,Volkswagen,Gol,2014,Revisão,1341.21,Pago,2
+2022-11-16,CLI0066,Isabela Rocha,Toyota,Hilux,2017,Suspensão,260.16,Pago,1
+2023-02-13,CLI0199,Quiteria Barbosa,Kia,Sportage,2022,Elétrica,1395.44,Pago,4
+2023-11-19,CLI0107,Tiago Rodrigues,Volkswagen,Gol,2013,Freios,709.74,Pago,3
+2023-10-28,CLI0091,Bruno Costa,Hyundai,Elantra,2023,Troca de Óleo,611.63,Pago,2
+2023-01-18,CLI0122,Quiteria Barbosa,Kia,Seltos,2011,Elétrica,247.79,Pago,2
+2023-03-25,CLI0020,Gabriela Lima,Chevrolet,S10,2014,Pneus,1093.74,Pago,3
+2023-06-14,CLI0141,Sofia Carvalho,Volkswagen,Gol,2019,Balanceamento,966.43,Pago,5
+2023-04-08,CLI0171,Ana Silva,BMW,Série 1,2018,Troca de Óleo,1464.56,Pago,1
+2022-05-04,CLI0131,Hugo Neves,Ford,EcoSport,2016,Suspensão,343.21,Pago,4
+2022-09-11,CLI0154,Bruno Costa,Honda,Fit,2014,Alinhamento,234.46,Pago,1
+2022-08-19,CLI0145,Carla Dias,Ford,Ranger,2013,Pneus,1053.71,Pago,3
+2022-03-07,CLI0044,Isabela Rocha,Kia,Seltos,2010,Pneus,136.49,Pago,5
+2022-12-13,CLI0091,Bruno Costa,BMW,X3,2021,Motor,247.93,Pago,1
+2022-01-22,CLI0046,Pedro Almeida,Volkswagen,Gol,2021,Troca de Óleo,1284.89,Pago,2
+2023-08-26,CLI0068,Nuno Fernandes,Honda,Fit,2022,Pneus,714.94,Pago,3
+2023-07-22,CLI0091,Bruno Costa,Chevrolet,Onix,2010,Balanceamento,298.24,Pago,4
+2022-08-24,CLI0084,Eduarda Souza,Chevrolet,S10,2019,Suspensão,548.19,Pago,4
+2023-08-26,CLI0020,Gabriela Lima,Hyundai,HB20,2018,Balanceamento,1335.29,Pago,2
+2022-08-14,CLI0086,Kelly Vieira,Volkswagen,T-Cross,2011,Alinhamento,925.27,Pago,1
+2022-01-08,CLI0134,Isabela Rocha,Mercedes-Benz,GLC,2018,Revisão,1194.84,Pendente,2
+2022-03-14,CLI0075,Maria Ribeiro,Mercedes-Benz,GLC,2010,Troca de Óleo,975.1,Pago,5
+2023-12-26,CLI0031,Ana Silva,Ford,Ranger,2016,Pintura,936.72,Pago,4
+2023-10-09,CLI0185,Olivia Santos,Hyundai,Creta,2020,Revisão,296.41,Pago,4
+2022-03-02,CLI0014,Ricardo Teixeira,Kia,Cerato,2013,Pneus,1456.7,Pendente,1
+2022-08-23,CLI0167,Luiz Martins,Mercedes-Benz,Classe C,2021,Elétrica,1289.76,Pago,4
+2022-03-11,CLI0019,Olivia Santos,Volkswagen,T-Cross,2022,Pintura,175.39,Pago,2
+2022-02-02,CLI0020,Gabriela Lima,Honda,Civic,2015,Revisão,1292.61,Pago,2
+2022-12-05,CLI0148,Ana Silva,Audi,Q5,2016,Troca de Óleo,759.36,Pago,2
+2022-03-14,CLI0163,Carla Dias,Honda,HR-V,2015,Balanceamento,1493.71,Pago,3
+2023-06-11,CLI0112,Kelly Vieira,Audi,Q3,2011,Balanceamento,907.79,Pago,4
+2022-09-01,CLI0118,Joao Pereira,Volkswagen,Virtus,2012,Pintura,1263.63,Pago,4
+2022-10-13,CLI0113,Kelly Vieira,Kia,Rio,2016,Pintura,454.8,Pago,2
+2023-11-17,CLI0066,Isabela Rocha,BMW,X1,2020,Troca de Óleo,1108.53,Pago,5
+2023-05-13,CLI0025,Ana Silva,Mercedes-Benz,Classe C,2019,Suspensão,1117.46,Pago,5
+2022-08-08,CLI0071,Daniel Melo,Toyota,RAV4,2014,Revisão,407.65,Pago,3
+2023-07-07,CLI0134,Isabela Rocha,Toyota,RAV4,2014,Alinhamento,524.58,Pago,5
+2022-05-16,CLI0151,Eduarda Souza,Hyundai,Elantra,2023,Troca de Óleo,890.23,Pago,2
+2023-08-08,CLI0174,Sofia Carvalho,Kia,Rio,2018,Freios,1343.14,Pago,5
+2023-08-14,CLI0145,Carla Dias,Mercedes-Benz,GLA,2016,Motor,908.07,Pago,4
+2023-04-30,CLI0194,Isabela Rocha,Audi,A3,2019,Freios,266.01,Pago,3
+2022-09-06,CLI0121,Kelly Vieira,Volkswagen,T-Cross,2015,Motor,881.87,Pago,2
+2023-04-30,CLI0071,Daniel Melo,Hyundai,HB20,2019,Freios,57.36,Pago,1
+2023-02-21,CLI0116,Daniel Melo,Ford,EcoSport,2014,Alinhamento,1471.27,Pago,2
+2022-07-14,CLI0043,Gabriela Lima,Audi,Q3,2020,Elétrica,108.09,Pago,4
+2022-04-07,CLI0132,Maria Ribeiro,Toyota,Hilux,2016,Revisão,732.45,Pago,1
+2022-04-10,CLI0045,Bruno Costa,BMW,X1,2022,Suspensão,1164.48,Pago,4
+2023-11-06,CLI0022,Pedro Almeida,Chevrolet,Onix,2013,Troca de Óleo,98.75,Pago,5
+2023-03-18,CLI0170,Maria Ribeiro,Mercedes-Benz,Classe C,2016,Motor,820.13,Pago,2
+2022-12-29,CLI0074,Ricardo Teixeira,Mercedes-Benz,Classe A,2018,Suspensão,744.94,Pago,5
+2023-03-10,CLI0153,Eduarda Souza,Mercedes-Benz,Classe A,2022,Troca de Óleo,1207.13,Pago,3
+2023-02-25,CLI0115,Ricardo Teixeira,Volkswagen,T-Cross,2018,Revisão,1240.87,Pago,5
+2023-04-24,CLI0162,Felipe Gomes,Volkswagen,Virtus,2017,Freios,706.04,Pago,4
+2022-02-25,CLI0170,Maria Ribeiro,Toyota,RAV4,2012,Elétrica,398.74,Pendente,4
+2023-11-21,CLI0195,Joao Pereira,BMW,Série 1,2015,Suspensão,859.81,Pago,4
+2023-11-01,CLI0164,Luiz Martins,Toyota,RAV4,2018,Troca de Óleo,68.01,Pago,5
+2023-10-24,CLI0123,Maria Ribeiro,BMW,X1,2018,Suspensão,1111.09,Pago,1
+2022-04-11,CLI0129,Olivia Santos,Ford,Ranger,2017,Troca de Óleo,1427.4,Pago,1
+2022-03-04,CLI0006,Nuno Fernandes,Kia,Rio,2014,Pneus,242.43,Pago,3
+2023-02-17,CLI0186,Carla Dias,Toyota,RAV4,2014,Freios,478.9,Pago,4
+2022-12-14,CLI0166,Gabriela Lima,Hyundai,Creta,2019,Pintura,989.08,Pago,3
+2022-04-22,CLI0054,Felipe Gomes,Mercedes-Benz,GLA,2015,Suspensão,181.56,Pago,3
+2022-09-12,CLI0037,Bruno Costa,Hyundai,HB20,2022,Pintura,745.69,Pago,4
+2022-07-16,CLI0141,Sofia Carvalho,Kia,Seltos,2021,Troca de Óleo,492.01,Pago,5
+2022-07-14,CLI0062,Gabriela Lima,Honda,CR-V,2016,Pintura,1069.79,Pago,2
+2023-07-04,CLI0068,Nuno Fernandes,Toyota,Hilux,2021,Suspensão,1293.99,Pago,4
+2023-04-05,CLI0002,Ricardo Teixeira,Honda,Civic,2012,Freios,1133.57,Pago,2
+2022-05-24,CLI0174,Sofia Carvalho,Honda,Fit,2023,Pneus,85.4,Pago,2
+2023-03-09,CLI0114,Isabela Rocha,BMW,X3,2023,Balanceamento,709.52,Pendente,5
+2022-07-07,CLI0081,Ricardo Teixeira,Hyundai,Elantra,2020,Troca de Óleo,1169.16,Pago,4
+2022-10-13,CLI0029,Nuno Fernandes,Ford,Focus,2011,Pneus,1317.59,Pago,4
+2023-04-19,CLI0127,Olivia Santos,Chevrolet,Tracker,2021,Pintura,637.77,Pago,4
+2022-09-13,CLI0007,Sofia Carvalho,Chevrolet,Tracker,2013,Motor,1195.3,Pendente,2
+2022-03-19,CLI0150,Hugo Neves,Volkswagen,Virtus,2017,Revisão,587.11,Pago,5
+2023-03-30,CLI0044,Isabela Rocha,BMW,X3,2022,Motor,723.23,Pago,1
+2023-07-18,CLI0084,Eduarda Souza,Kia,Seltos,2021,Alinhamento,968.43,Pago,4
+2022-04-11,CLI0069,Quiteria Barbosa,Ford,Focus,2012,Balanceamento,1297.55,Pago,1
+2022-02-21,CLI0075,Maria Ribeiro,Mercedes-Benz,GLC,2011,Troca de Óleo,152.51,Pago,2
+2023-10-30,CLI0145,Carla Dias,Hyundai,Creta,2013,Freios,1345.48,Pago,2
+2023-07-08,CLI0156,Felipe Gomes,Mercedes-Benz,Classe A,2018,Motor,532.71,Pago,3
+2022-01-16,CLI0114,Isabela Rocha,Hyundai,Tucson,2016,Pneus,97.44,Pago,5
+2022-04-06,CLI0017,Pedro Almeida,Audi,A4,2022,Pneus,667.56,Pago,3
+2022-08-31,CLI0011,Eduarda Souza,Toyota,Yaris,2015,Revisão,441.19,Pendente,1
+2022-06-20,CLI0032,Eduarda Souza,Chevrolet,Cruze,2022,Pneus,1421.84,Pago,2
+2023-02-21,CLI0124,Quiteria Barbosa,BMW,X1,2018,Pneus,836.53,Pago,4
+2023-05-13,CLI0135,Nuno Fernandes,Toyota,Hilux,2019,Suspensão,1201.99,Pago,4
+2023-05-08,CLI0055,Joao Pereira,Toyota,RAV4,2021,Freios,1192.15,Pago,5
+2022-08-07,CLI0133,Joao Pereira,Honda,HR-V,2020,Balanceamento,167.39,Pago,1
+2023-02-15,CLI0098,Daniel Melo,Volkswagen,T-Cross,2021,Motor,1327.23,Pago,3
+2022-03-02,CLI0089,Ana Silva,Volkswagen,T-Cross,2010,Pintura,1116.85,Pago,1
+2022-06-18,CLI0055,Joao Pereira,Audi,A4,2012,Suspensão,129.48,Pago,1
+2023-01-24,CLI0151,Eduarda Souza,BMW,X1,2016,Pintura,1420.72,Pago,5
+2022-01-03,CLI0023,Joao Pereira,Hyundai,Creta,2020,Pintura,1028.25,Pago,3
+2023-02-04,CLI0086,Kelly Vieira,Toyota,Corolla,2010,Pintura,1337.57,Pago,4
+2022-09-29,CLI0057,Maria Ribeiro,BMW,X3,2022,Troca de Óleo,210.9,Pago,4
+2023-04-11,CLI0136,Luiz Martins,Toyota,RAV4,2011,Motor,580.11,Pago,2
+2022-10-20,CLI0098,Daniel Melo,Ford,Ranger,2023,Freios,947.74,Pago,3
+2023-03-10,CLI0134,Isabela Rocha,Hyundai,HB20,2012,Revisão,580.08,Pago,2
+2023-12-15,CLI0010,Tiago Rodrigues,Hyundai,Creta,2017,Pintura,304.14,Pendente,5
+2023-07-24,CLI0080,Isabela Rocha,Volkswagen,Polo,2019,Suspensão,860.25,Pago,1
+2023-11-09,CLI0120,Sofia Carvalho,Toyota,Hilux,2016,Troca de Óleo,147.16,Pago,4
+2023-05-14,CLI0002,Ricardo Teixeira,Toyota,Corolla,2011,Pneus,1078.54,Pago,1
+2022-06-08,CLI0061,Pedro Almeida,Kia,Cerato,2011,Balanceamento,346.83,Pago,1
+2022-07-14,CLI0043,Gabriela Lima,Hyundai,HB20,2014,Suspensão,1472.81,Pago,4
+2022-10-31,CLI0028,Hugo Neves,BMW,Série 1,2013,Suspensão,396.02,Pago,4
+2022-08-11,CLI0052,Carla Dias,Toyota,Corolla,2015,Freios,214.66,Pago,3
+2022-03-01,CLI0066,Isabela Rocha,Kia,Rio,2011,Freios,743.82,Pago,4
+2023-08-17,CLI0002,Ricardo Teixeira,Chevrolet,S10,2019,Revisão,1411.76,Pago,2
+2023-07-10,CLI0150,Hugo Neves,Kia,Rio,2010,Balanceamento,891.17,Pago,4
+2022-03-04,CLI0036,Carla Dias,BMW,X3,2021,Balanceamento,1440.7,Pendente,1
+2022-11-18,CLI0077,Daniel Melo,Audi,Q5,2016,Pneus,354.2,Pago,1
+2022-02-28,CLI0141,Sofia Carvalho,Audi,Q5,2016,Motor,1130.27,Pago,3
+2022-02-21,CLI0101,Ricardo Teixeira,Chevrolet,Onix,2019,Freios,376.88,Pago,1
+2023-08-22,CLI0167,Luiz Martins,Toyota,Corolla,2020,Revisão,561.43,Pago,2
+2023-05-04,CLI0162,Felipe Gomes,Honda,HR-V,2018,Motor,437.67,Pago,3
+2023-05-30,CLI0015,Pedro Almeida,Ford,Ka,2014,Pintura,1036.33,Pago,4
+2023-06-28,CLI0173,Hugo Neves,Hyundai,Tucson,2021,Pintura,451.86,Pago,4
+2022-06-11,CLI0009,Hugo Neves,Chevrolet,Cruze,2019,Pneus,141.89,Pago,4
+2022-02-28,CLI0004,Olivia Santos,Hyundai,Creta,2010,Elétrica,550.58,Pago,1
+2023-06-05,CLI0185,Olivia Santos,Chevrolet,Cruze,2022,Motor,755.03,Pago,1
+2022-03-24,CLI0173,Hugo Neves,Audi,A4,2023,Revisão,813.69,Pago,5
+2022-07-10,CLI0116,Daniel Melo,Honda,CR-V,2012,Balanceamento,227.93,Pago,2
+2022-03-12,CLI0115,Ricardo Teixeira,Kia,Cerato,2020,Balanceamento,1079.25,Pago,4
+2023-09-02,CLI0142,Pedro Almeida,Audi,A4,2017,Revisão,1033.55,Pago,2
+2022-03-11,CLI0084,Eduarda Souza,BMW,X1,2017,Balanceamento,822.64,Pago,4
+2023-11-23,CLI0024,Olivia Santos,Kia,Rio,2010,Balanceamento,473.78,Pago,3
+2022-08-29,CLI0005,Quiteria Barbosa,Toyota,Corolla,2013,Pneus,950.38,Pago,2
+2023-02-18,CLI0065,Nuno Fernandes,Volkswagen,T-Cross,2023,Motor,1209.86,Pago,2
+2022-05-03,CLI0161,Bruno Costa,Hyundai,HB20,2020,Balanceamento,1420.78,Pago,1
+2023-08-07,CLI0124,Quiteria Barbosa,Chevrolet,S10,2022,Revisão,1222.75,Pago,5
+2022-09-10,CLI0167,Luiz Martins,Audi,Q3,2018,Pneus,1414.27,Pago,1
+2023-08-16,CLI0184,Eduarda Souza,Kia,Cerato,2014,Pintura,145.16,Pendente,2
+2023-09-01,CLI0018,Bruno Costa,Chevrolet,S10,2013,Elétrica,1343.26,Pago,3
+2022-02-10,CLI0169,Gabriela Lima,Audi,Q3,2010,Elétrica,713.92,Pago,1
+2023-09-27,CLI0049,Tiago Rodrigues,Toyota,Yaris,2022,Pintura,166.25,Pago,5
+2022-03-25,CLI0118,Joao Pereira,Ford,EcoSport,2019,Alinhamento,1352.02,Pago,4
+2023-03-06,CLI0105,Luiz Martins,Kia,Sportage,2018,Alinhamento,468.14,Pago,2
+2023-11-05,CLI0080,Isabela Rocha,Volkswagen,Gol,2018,Alinhamento,1437.11,Pago,1
+2023-08-21,CLI0063,Bruno Costa,Chevrolet,Cruze,2021,Balanceamento,208.58,Pago,1
+2023-08-02,CLI0068,Nuno Fernandes,Kia,Cerato,2013,Pintura,450.12,Pago,3
+2023-06-20,CLI0067,Luiz Martins,Volkswagen,Polo,2019,Balanceamento,1060.77,Pendente,2
+2022-11-20,CLI0034,Gabriela Lima,Mercedes-Benz,Classe C,2012,Freios,769.68,Pago,4
+2022-09-25,CLI0103,Olivia Santos,Mercedes-Benz,GLC,2020,Elétrica,1318.74,Pago,3
+2022-07-29,CLI0023,Joao Pereira,Toyota,Yaris,2010,Revisão,805.0,Pago,2
+2023-11-17,CLI0102,Tiago Rodrigues,Mercedes-Benz,Classe A,2015,Revisão,959.55,Pago,2
+2022-11-18,CLI0182,Daniel Melo,Audi,A4,2013,Elétrica,475.1,Pago,1
+2022-09-02,CLI0070,Sofia Carvalho,Audi,Q5,2020,Suspensão,1455.88,Pago,5
+2022-09-29,CLI0146,Quiteria Barbosa,Toyota,RAV4,2010,Freios,835.08,Pago,2
+2023-02-10,CLI0164,Luiz Martins,Honda,CR-V,2012,Motor,241.44,Pendente,4
+2022-05-15,CLI0164,Luiz Martins,Audi,Q5,2011,Freios,552.72,Pago,1
+2023-11-19,CLI0048,Felipe Gomes,Mercedes-Benz,Classe A,2014,Freios,693.6,Pago,5
+2023-10-23,CLI0030,Eduarda Souza,Audi,Q3,2022,Suspensão,984.79,Pago,1
+2022-11-04,CLI0040,Tiago Rodrigues,Chevrolet,Cruze,2016,Pneus,472.7,Pago,4
+2023-04-14,CLI0121,Kelly Vieira,Honda,CR-V,2015,Suspensão,141.28,Pago,3
+2022-11-20,CLI0153,Eduarda Souza,Toyota,RAV4,2020,Alinhamento,1314.1,Pago,4
+2022-03-16,CLI0132,Maria Ribeiro,Chevrolet,Onix,2016,Motor,386.88,Pago,1
+2022-01-10,CLI0036,Carla Dias,Chevrolet,Onix,2016,Suspensão,1423.8,Pago,5
+2023-04-15,CLI0155,Gabriela Lima,Ford,Ka,2019,Elétrica,984.77,Pago,1
+2023-09-29,CLI0099,Tiago Rodrigues,Honda,CR-V,2013,Pneus,646.95,Pago,1
+2023-07-31,CLI0151,Eduarda Souza,Honda,CR-V,2018,Pintura,547.05,Pago,4
+2022-04-13,CLI0152,Felipe Gomes,Volkswagen,Gol,2010,Alinhamento,986.77,Pago,2
+2022-03-17,CLI0090,Ana Silva,BMW,Série 1,2021,Revisão,523.14,Pago,2
+2023-07-05,CLI0185,Olivia Santos,Volkswagen,Gol,2021,Revisão,910.37,Pago,3
+2022-08-07,CLI0113,Kelly Vieira,Toyota,Yaris,2011,Troca de Óleo,1060.45,Pago,2
+2023-06-03,CLI0128,Maria Ribeiro,Chevrolet,Tracker,2011,Elétrica,1270.77,Pendente,2
+2022-09-29,CLI0125,Quiteria Barbosa,Toyota,Yaris,2018,Troca de Óleo,695.62,Pago,1
+2022-05-16,CLI0173,Hugo Neves,BMW,X3,2014,Freios,490.92,Pago,1
+2022-12-24,CLI0126,Kelly Vieira,Chevrolet,Tracker,2021,Alinhamento,241.33,Pago,4
+2022-03-12,CLI0031,Ana Silva,Chevrolet,Tracker,2023,Elétrica,1194.55,Pago,1
+2022-09-08,CLI0014,Ricardo Teixeira,Ford,Ranger,2018,Balanceamento,299.02,Pago,1
+2023-01-14,CLI0089,Ana Silva,Chevrolet,S10,2019,Elétrica,427.01,Pago,3
+2022-10-19,CLI0061,Pedro Almeida,Toyota,Hilux,2015,Troca de Óleo,752.15,Pago,2
+2022-06-11,CLI0055,Joao Pereira,Kia,Sportage,2015,Balanceamento,1457.55,Pago,1
+2023-03-25,CLI0012,Hugo Neves,Kia,Seltos,2023,Balanceamento,1166.14,Pago,2
+2023-07-11,CLI0102,Tiago Rodrigues,Kia,Rio,2014,Pintura,118.61,Pago,1
+2023-12-22,CLI0063,Bruno Costa,BMW,Série 3,2013,Alinhamento,562.03,Pago,2
+2022-11-06,CLI0091,Bruno Costa,Honda,Civic,2019,Pneus,711.09,Pago,2
+2023-09-19,CLI0012,Hugo Neves,Chevrolet,Cruze,2013,Alinhamento,291.23,Pago,1
+2023-11-01,CLI0167,Luiz Martins,Honda,CR-V,2017,Freios,1389.99,Pago,4
+2023-06-26,CLI0016,Pedro Almeida,Chevrolet,Tracker,2016,Alinhamento,1082.13,Pago,5
+2022-01-09,CLI0173,Hugo Neves,Volkswagen,T-Cross,2019,Troca de Óleo,463.61,Pago,1
+2023-11-15,CLI0172,Eduarda Souza,Toyota,RAV4,2010,Elétrica,1461.15,Pago,3
+2023-07-22,CLI0124,Quiteria Barbosa,Volkswagen,T-Cross,2014,Pneus,1267.03,Pago,3
+2022-11-03,CLI0102,Tiago Rodrigues,Volkswagen,Gol,2012,Pneus,1054.65,Pago,5
+2023-11-11,CLI0093,Ricardo Teixeira,Volkswagen,Polo,2016,Suspensão,1016.22,Pago,2
+2022-04-17,CLI0111,Joao Pereira,Toyota,Yaris,2018,Elétrica,272.55,Pago,5
+2022-05-18,CLI0159,Joao Pereira,Ford,Ranger,2011,Motor,394.96,Pago,2
+2022-09-28,CLI0180,Maria Ribeiro,Ford,EcoSport,2018,Motor,109.67,Pago,5
+2022-04-29,CLI0090,Ana Silva,Mercedes-Benz,Classe A,2011,Pintura,509.11,Pago,4
+2022-04-20,CLI0162,Felipe Gomes,BMW,X3,2018,Elétrica,233.39,Pago,4
+2023-07-21,CLI0131,Hugo Neves,Honda,HR-V,2014,Motor,427.59,Pago,1
+2022-06-09,CLI0065,Nuno Fernandes,Honda,HR-V,2015,Alinhamento,317.52,Pendente,2
+2022-10-06,CLI0096,Ricardo Teixeira,Chevrolet,Tracker,2011,Pintura,865.61,Pago,2
+2022-10-16,CLI0031,Ana Silva,Kia,Sportage,2022,Troca de Óleo,100.3,Pago,1
+2023-09-12,CLI0013,Eduarda Souza,Chevrolet,Cruze,2018,Balanceamento,509.57,Pago,3
+2022-08-04,CLI0021,Olivia Santos,Mercedes-Benz,GLC,2014,Motor,548.58,Pago,3
+2022-12-18,CLI0180,Maria Ribeiro,Hyundai,Elantra,2018,Pneus,590.73,Pago,2
+2022-07-28,CLI0069,Quiteria Barbosa,Chevrolet,S10,2023,Elétrica,832.81,Pago,1
+2023-12-05,CLI0143,Daniel Melo,Chevrolet,Tracker,2022,Motor,285.77,Pago,4
+2023-10-12,CLI0101,Ricardo Teixeira,Hyundai,HB20,2019,Motor,487.26,Pendente,3
+2022-09-28,CLI0035,Ricardo Teixeira,Hyundai,Creta,2014,Suspensão,1384.63,Pago,1
+2023-06-02,CLI0050,Hugo Neves,Kia,Rio,2021,Troca de Óleo,636.62,Pago,4
+2023-05-16,CLI0088,Ana Silva,Honda,HR-V,2017,Freios,774.15,Pago,2
+2022-09-15,CLI0088,Ana Silva,Chevrolet,Tracker,2016,Pneus,260.81,Pago,4
+2022-02-22,CLI0105,Luiz Martins,Kia,Seltos,2019,Pneus,714.16,Pago,2
+2022-04-05,CLI0032,Eduarda Souza,Ford,Ka,2017,Pintura,514.32,Pendente,1
+2023-10-12,CLI0075,Maria Ribeiro,Chevrolet,Tracker,2022,Alinhamento,56.23,Pago,3
+2023-03-10,CLI0057,Maria Ribeiro,Kia,Rio,2013,Alinhamento,1120.82,Pago,5
+2022-10-11,CLI0082,Olivia Santos,Kia,Rio,2022,Suspensão,1464.62,Pago,3
+2022-02-15,CLI0068,Nuno Fernandes,Ford,EcoSport,2015,Troca de Óleo,530.36,Pago,1
+2022-01-04,CLI0120,Sofia Carvalho,Mercedes-Benz,Classe C,2022,Motor,1072.9,Pago,1
+2022-12-08,CLI0158,Eduarda Souza,Volkswagen,T-Cross,2017,Revisão,737.17,Pago,2
+2022-05-14,CLI0130,Hugo Neves,BMW,X1,2020,Pintura,470.25,Pago,4
+2023-10-15,CLI0014,Ricardo Teixeira,Ford,Focus,2017,Alinhamento,1418.81,Pago,3
+2022-09-26,CLI0019,Olivia Santos,Chevrolet,Cruze,2019,Elétrica,1472.0,Pago,5
+2022-06-15,CLI0136,Luiz Martins,Hyundai,Creta,2023,Revisão,881.9,Pago,4
+2023-03-29,CLI0057,Maria Ribeiro,Chevrolet,Onix,2010,Elétrica,263.27,Pago,1
+2023-07-19,CLI0145,Carla Dias,Honda,Fit,2017,Balanceamento,869.59,Pago,5
+2023-12-24,CLI0132,Maria Ribeiro,BMW,X3,2011,Suspensão,1364.98,Pago,5
+2023-03-14,CLI0182,Daniel Melo,BMW,Série 1,2014,Revisão,691.05,Pago,2
+2023-07-29,CLI0175,Nuno Fernandes,BMW,X1,2011,Alinhamento,1049.26,Pago,3
+2022-01-10,CLI0067,Luiz Martins,Mercedes-Benz,GLC,2016,Alinhamento,1110.88,Pago,1
+2022-04-25,CLI0117,Daniel Melo,BMW,Série 3,2020,Revisão,1355.25,Pago,5
+2022-03-19,CLI0029,Nuno Fernandes,Kia,Cerato,2022,Motor,252.16,Pago,3
+2023-12-09,CLI0070,Sofia Carvalho,Volkswagen,Virtus,2013,Elétrica,848.89,Pago,4
+2022-06-02,CLI0194,Isabela Rocha,Audi,Q5,2020,Freios,496.72,Pago,2
+2023-07-13,CLI0140,Pedro Almeida,Volkswagen,T-Cross,2021,Alinhamento,632.36,Pago,3
+2022-02-06,CLI0079,Pedro Almeida,Ford,Ranger,2013,Freios,1269.27,Pago,2
+2023-01-14,CLI0120,Sofia Carvalho,Mercedes-Benz,Classe A,2022,Suspensão,696.66,Pago,3
+2023-08-20,CLI0188,Kelly Vieira,Hyundai,Creta,2015,Balanceamento,184.1,Pago,4
+2023-07-20,CLI0062,Gabriela Lima,Audi,A3,2016,Elétrica,129.8,Pago,1
+2022-06-01,CLI0076,Carla Dias,Volkswagen,T-Cross,2015,Elétrica,979.9,Pago,3
+2023-03-17,CLI0159,Joao Pereira,Volkswagen,Virtus,2018,Revisão,895.98,Pago,1
+2022-05-11,CLI0163,Carla Dias,Mercedes-Benz,GLC,2018,Revisão,372.11,Pago,5
+2022-02-12,CLI0135,Nuno Fernandes,Ford,Ka,2010,Alinhamento,1406.71,Pago,5
+2022-11-12,CLI0166,Gabriela Lima,Mercedes-Benz,Classe C,2021,Pneus,452.99,Pago,4
+2023-01-09,CLI0148,Ana Silva,Audi,A3,2023,Motor,82.7,Pago,4
+2022-02-10,CLI0138,Ana Silva,Audi,Q5,2014,Pneus,830.7,Pago,5
+2023-01-02,CLI0106,Kelly Vieira,Toyota,Yaris,2013,Elétrica,695.91,Pago,2
+2022-08-04,CLI0130,Hugo Neves,Kia,Cerato,2014,Motor,1023.76,Pago,5
+2023-11-30,CLI0085,Joao Pereira,Volkswagen,Polo,2011,Balanceamento,176.7,Pago,5
+2022-09-13,CLI0073,Carla Dias,Volkswagen,Polo,2016,Pneus,792.09,Pago,1
+2023-11-14,CLI0073,Carla Dias,BMW,Série 1,2020,Pneus,331.95,Pago,2
+2022-04-16,CLI0037,Bruno Costa,Kia,Sportage,2021,Elétrica,510.75,Pendente,1
+2022-12-29,CLI0043,Gabriela Lima,Mercedes-Benz,GLC,2023,Balanceamento,927.36,Pago,5
+2023-07-28,CLI0190,Ana Silva,BMW,Série 1,2015,Motor,1417.93,Pago,1
+2023-02-21,CLI0098,Daniel Melo,Audi,Q5,2011,Suspensão,1367.25,Pendente,3
+2023-09-28,CLI0046,Pedro Almeida,Chevrolet,Cruze,2018,Revisão,573.54,Pago,2
+2022-06-08,CLI0028,Hugo Neves,Hyundai,Tucson,2012,Pintura,264.52,Pago,4
+2022-08-31,CLI0016,Pedro Almeida,BMW,Série 1,2017,Revisão,1288.02,Pago,2
+2022-06-16,CLI0169,Gabriela Lima,Mercedes-Benz,GLA,2015,Elétrica,585.96,Pago,5
+2022-07-01,CLI0021,Olivia Santos,Toyota,Corolla,2015,Alinhamento,590.61,Pago,1
+2023-02-27,CLI0155,Gabriela Lima,Audi,A3,2013,Pneus,462.74,Pendente,1
+2022-01-26,CLI0168,Nuno Fernandes,Mercedes-Benz,GLC,2019,Elétrica,559.46,Pago,2
+2022-07-03,CLI0177,Felipe Gomes,Chevrolet,Tracker,2014,Alinhamento,1467.41,Pago,3
+2022-12-07,CLI0008,Daniel Melo,Mercedes-Benz,Classe C,2012,Suspensão,1317.74,Pago,4
+2023-02-26,CLI0068,Nuno Fernandes,Toyota,Yaris,2021,Revisão,177.02,Pago,3
+2023-11-17,CLI0154,Bruno Costa,Kia,Cerato,2020,Revisão,1105.39,Pago,2
+2022-09-12,CLI0027,Kelly Vieira,Mercedes-Benz,Classe C,2013,Freios,694.12,Pago,2
+2022-10-01,CLI0076,Carla Dias,Chevrolet,Onix,2017,Suspensão,1489.27,Pago,4
+2022-06-13,CLI0033,Nuno Fernandes,Audi,Q3,2021,Freios,1215.34,Pago,2
+2023-12-20,CLI0167,Luiz Martins,Kia,Cerato,2013,Alinhamento,468.52,Pago,1
+2022-04-21,CLI0155,Gabriela Lima,Volkswagen,Virtus,2013,Pintura,1218.23,Pago,2
+2023-01-27,CLI0162,Felipe Gomes,Toyota,Yaris,2021,Motor,1457.02,Pago,5
+2022-02-09,CLI0034,Gabriela Lima,Ford,Ranger,2013,Troca de Óleo,664.56,Pendente,4
+2023-04-27,CLI0088,Ana Silva,BMW,X1,2023,Pintura,1349.82,Pago,3
+2022-08-16,CLI0083,Quiteria Barbosa,BMW,Série 1,2014,Freios,252.37,Pago,2
+2022-07-24,CLI0136,Luiz Martins,BMW,X3,2013,Motor,901.41,Pago,3
+2023-04-17,CLI0048,Felipe Gomes,BMW,Série 3,2013,Alinhamento,174.81,Pendente,3
+2022-12-25,CLI0089,Ana Silva,Volkswagen,Gol,2013,Alinhamento,351.29,Pago,1
+2022-11-09,CLI0057,Maria Ribeiro,Chevrolet,Onix,2023,Troca de Óleo,738.19,Pago,5
+2022-08-22,CLI0150,Hugo Neves,Audi,A4,2013,Suspensão,1307.91,Pago,4
+2022-08-17,CLI0090,Ana Silva,BMW,X3,2023,Freios,1480.63,Pago,3
+2022-01-25,CLI0107,Tiago Rodrigues,BMW,Série 1,2019,Motor,145.87,Pago,1
+2023-11-07,CLI0062,Gabriela Lima,Chevrolet,Tracker,2015,Suspensão,1442.14,Pago,2
+2022-07-17,CLI0162,Felipe Gomes,Toyota,RAV4,2012,Motor,1146.37,Pago,3
+2023-02-13,CLI0094,Daniel Melo,Honda,HR-V,2022,Pintura,178.25,Pago,3
+2022-12-03,CLI0168,Nuno Fernandes,Volkswagen,Virtus,2011,Troca de Óleo,643.72,Pago,2
+2022-10-13,CLI0074,Ricardo Teixeira,Kia,Seltos,2011,Revisão,1375.9,Pago,2
+2022-03-13,CLI0190,Ana Silva,Honda,CR-V,2011,Suspensão,651.05,Pago,5
+2022-10-13,CLI0197,Tiago Rodrigues,Kia,Cerato,2020,Troca de Óleo,855.93,Pago,1
+2022-12-26,CLI0093,Ricardo Teixeira,Honda,HR-V,2020,Pintura,1079.86,Pago,2
+2023-10-19,CLI0057,Maria Ribeiro,Chevrolet,Cruze,2017,Suspensão,1145.1,Pago,2
+2023-06-06,CLI0077,Daniel Melo,Volkswagen,Gol,2019,Pintura,248.54,Pago,5
+2023-02-14,CLI0106,Kelly Vieira,Ford,Ranger,2010,Freios,319.71,Pago,4
+2023-11-27,CLI0194,Isabela Rocha,Volkswagen,Polo,2022,Balanceamento,603.57,Pago,5
+2023-07-04,CLI0164,Luiz Martins,Volkswagen,Polo,2023,Troca de Óleo,853.11,Pendente,3
+2022-12-06,CLI0161,Bruno Costa,Volkswagen,Polo,2018,Alinhamento,111.24,Pago,2
+2022-01-29,CLI0028,Hugo Neves,Mercedes-Benz,Classe C,2010,Revisão,1248.06,Pago,4
+2022-04-29,CLI0051,Hugo Neves,Chevrolet,S10,2023,Suspensão,1260.15,Pago,1
+2022-09-25,CLI0129,Olivia Santos,Chevrolet,Onix,2017,Suspensão,490.68,Pago,1
+2022-07-02,CLI0175,Nuno Fernandes,Hyundai,Elantra,2015,Suspensão,860.96,Pago,4
+2023-08-18,CLI0111,Joao Pereira,Honda,Civic,2019,Motor,722.01,Pago,1
+2022-09-29,CLI0021,Olivia Santos,Hyundai,Tucson,2015,Elétrica,88.92,Pago,2
+2022-02-09,CLI0170,Maria Ribeiro,Mercedes-Benz,Classe A,2017,Revisão,53.55,Pago,1
+2022-04-22,CLI0171,Ana Silva,Mercedes-Benz,Classe C,2019,Alinhamento,430.88,Pago,2
+2023-09-03,CLI0058,Ana Silva,Honda,Civic,2023,Motor,1436.24,Pago,2
+2023-03-21,CLI0153,Eduarda Souza,Kia,Sportage,2014,Balanceamento,1259.65,Pago,2
+2022-12-20,CLI0055,Joao Pereira,Ford,Focus,2017,Troca de Óleo,735.18,Pago,1
+2022-11-18,CLI0182,Daniel Melo,Honda,Civic,2012,Freios,998.03,Pendente,2
+2023-03-23,CLI0030,Eduarda Souza,Honda,Civic,2022,Pneus,1344.4,Pago,5
+2023-09-13,CLI0088,Ana Silva,BMW,Série 1,2018,Pneus,654.88,Pago,5
+2023-06-08,CLI0190,Ana Silva,Kia,Seltos,2014,Troca de Óleo,763.24,Pago,2
+2022-04-29,CLI0045,Bruno Costa,Ford,EcoSport,2016,Alinhamento,1047.37,Pago,2
+2023-01-30,CLI0091,Bruno Costa,Volkswagen,Gol,2013,Motor,404.89,Pago,5
+2023-08-14,CLI0070,Sofia Carvalho,Honda,CR-V,2022,Freios,223.06,Pago,1
+2022-07-14,CLI0006,Nuno Fernandes,Mercedes-Benz,GLA,2019,Revisão,451.96,Pago,4
+2022-09-18,CLI0011,Eduarda Souza,Volkswagen,Polo,2012,Suspensão,1491.78,Pago,4
+2022-02-15,CLI0101,Ricardo Teixeira,Toyota,Hilux,2010,Freios,146.75,Pago,3
+2023-12-27,CLI0048,Felipe Gomes,Mercedes-Benz,Classe C,2018,Motor,1131.07,Pago,2
+2023-03-23,CLI0199,Quiteria Barbosa,Honda,CR-V,2022,Motor,892.55,Pago,2
+2022-01-02,CLI0075,Maria Ribeiro,BMW,Série 1,2016,Suspensão,870.08,Pendente,2
+2023-06-17,CLI0006,Nuno Fernandes,Chevrolet,Onix,2017,Suspensão,1309.1,Pago,4
+2023-07-06,CLI0187,Kelly Vieira,Audi,A4,2018,Revisão,960.59,Pendente,2
+2023-12-05,CLI0168,Nuno Fernandes,Ford,Ranger,2010,Elétrica,740.26,Pago,5
+2023-11-18,CLI0130,Hugo Neves,Audi,Q5,2018,Suspensão,1056.66,Pago,2
+2022-07-21,CLI0159,Joao Pereira,Hyundai,HB20,2015,Balanceamento,223.4,Pago,3
+2023-01-08,CLI0028,Hugo Neves,Toyota,Corolla,2016,Alinhamento,793.16,Pago,3
+2023-03-18,CLI0058,Ana Silva,Honda,CR-V,2023,Suspensão,884.13,Pago,5
+2022-03-13,CLI0166,Gabriela Lima,Hyundai,HB20,2020,Balanceamento,1275.66,Pago,4
+2023-11-12,CLI0140,Pedro Almeida,Honda,Civic,2022,Balanceamento,286.13,Pago,2
+2022-12-05,CLI0028,Hugo Neves,Chevrolet,Cruze,2012,Freios,134.84,Pago,3
+2023-10-01,CLI0142,Pedro Almeida,Volkswagen,Polo,2017,Suspensão,513.54,Pago,4
+2022-11-18,CLI0090,Ana Silva,Ford,Ranger,2011,Pneus,1323.56,Pago,1
+2023-11-11,CLI0002,Ricardo Teixeira,Hyundai,Elantra,2021,Motor,246.47,Pago,3
+2022-05-08,CLI0016,Pedro Almeida,BMW,Série 3,2018,Balanceamento,286.8,Pago,4
+2022-11-04,CLI0052,Carla Dias,Mercedes-Benz,Classe A,2017,Pneus,445.37,Pago,4
+2023-06-04,CLI0167,Luiz Martins,BMW,Série 1,2015,Revisão,658.3,Pago,2
+2022-11-13,CLI0110,Tiago Rodrigues,Mercedes-Benz,Classe A,2021,Motor,1372.55,Pago,4
+2023-11-14,CLI0146,Quiteria Barbosa,BMW,Série 3,2010,Motor,566.18,Pago,4
+2023-02-23,CLI0106,Kelly Vieira,Chevrolet,Onix,2010,Suspensão,470.29,Pago,4
+2022-12-01,CLI0023,Joao Pereira,Hyundai,Tucson,2020,Alinhamento,817.94,Pago,5
+2023-02-17,CLI0058,Ana Silva,Mercedes-Benz,GLC,2013,Revisão,1407.66,Pago,5
+2023-12-15,CLI0061,Pedro Almeida,Hyundai,Tucson,2016,Suspensão,795.11,Pago,4
+2022-10-30,CLI0010,Tiago Rodrigues,Audi,A4,2019,Elétrica,1161.34,Pago,2
+2023-07-22,CLI0084,Eduarda Souza,Ford,Ranger,2011,Balanceamento,315.71,Pago,4
+2022-05-11,CLI0159,Joao Pereira,Mercedes-Benz,Classe C,2015,Troca de Óleo,187.04,Pago,1
+2022-07-16,CLI0092,Nuno Fernandes,Toyota,Corolla,2015,Troca de Óleo,1141.31,Pago,4
+2023-03-07,CLI0023,Joao Pereira,Honda,Civic,2019,Suspensão,838.38,Pago,4
+2023-11-12,CLI0182,Daniel Melo,Honda,Civic,2023,Revisão,1315.04,Pago,1
+2023-01-24,CLI0120,Sofia Carvalho,Chevrolet,Cruze,2014,Pintura,1248.89,Pago,3
+2023-11-25,CLI0004,Olivia Santos,Honda,HR-V,2012,Elétrica,1043.2,Pago,5
+2022-06-28,CLI0104,Isabela Rocha,Mercedes-Benz,Classe C,2018,Balanceamento,486.55,Pago,5
+2023-09-23,CLI0049,Tiago Rodrigues,BMW,X1,2014,Alinhamento,1043.89,Pago,2
+2023-08-06,CLI0029,Nuno Fernandes,Volkswagen,Gol,2013,Pneus,1048.1,Pago,5
+2022-11-05,CLI0086,Kelly Vieira,Honda,CR-V,2014,Motor,188.96,Pago,2
+2023-02-20,CLI0123,Maria Ribeiro,Chevrolet,S10,2017,Suspensão,891.07,Pago,3
+2023-07-16,CLI0049,Tiago Rodrigues,Honda,Fit,2019,Troca de Óleo,1243.81,Pago,4
+2022-01-01,CLI0084,Eduarda Souza,Mercedes-Benz,Classe A,2015,Freios,68.7,Pendente,4
+2022-11-08,CLI0133,Joao Pereira,Mercedes-Benz,Classe A,2015,Freios,801.35,Pago,3
+2022-10-21,CLI0018,Bruno Costa,Mercedes-Benz,GLA,2012,Elétrica,590.87,Pendente,4
+2022-08-04,CLI0195,Joao Pereira,Kia,Sportage,2017,Pneus,753.1,Pago,3
+2023-03-17,CLI0014,Ricardo Teixeira,BMW,X1,2016,Motor,543.45,Pago,4
+2023-08-17,CLI0106,Kelly Vieira,Volkswagen,Polo,2013,Pneus,1370.64,Pago,5
+2023-09-14,CLI0102,Tiago Rodrigues,Honda,Civic,2016,Troca de Óleo,198.51,Pago,5
+2023-11-02,CLI0198,Ricardo Teixeira,Chevrolet,Tracker,2021,Suspensão,274.1,Pago,4
+2022-11-26,CLI0111,Joao Pereira,Volkswagen,Virtus,2022,Pneus,370.61,Pago,1
+2023-04-22,CLI0079,Pedro Almeida,Toyota,Yaris,2015,Elétrica,323.2,Pago,3
+2023-03-29,CLI0095,Felipe Gomes,Chevrolet,Cruze,2015,Suspensão,1350.73,Pago,2
+2023-03-29,CLI0128,Maria Ribeiro,Toyota,Corolla,2023,Troca de Óleo,939.47,Pago,4
+2023-11-23,CLI0197,Tiago Rodrigues,Honda,Civic,2016,Revisão,1255.55,Pago,2
+2022-08-07,CLI0051,Hugo Neves,Hyundai,HB20,2014,Pneus,812.2,Pago,2
+2023-06-08,CLI0004,Olivia Santos,Kia,Sportage,2017,Pneus,821.54,Pendente,2
+2023-04-30,CLI0158,Eduarda Souza,BMW,Série 3,2012,Suspensão,849.11,Pago,1
+2022-06-23,CLI0069,Quiteria Barbosa,Volkswagen,Polo,2019,Balanceamento,1146.64,Pendente,1
+2023-11-06,CLI0147,Joao Pereira,Mercedes-Benz,Classe A,2012,Elétrica,215.25,Pago,5
+2022-03-28,CLI0126,Kelly Vieira,Volkswagen,Virtus,2019,Suspensão,717.71,Pago,3
+2022-10-18,CLI0155,Gabriela Lima,Hyundai,Tucson,2020,Alinhamento,160.78,Pago,4
+2023-06-12,CLI0148,Ana Silva,Volkswagen,Virtus,2013,Suspensão,1237.32,Pago,4
+2023-11-11,CLI0067,Luiz Martins,Toyota,Corolla,2023,Pintura,1388.94,Pago,4
+2023-10-11,CLI0009,Hugo Neves,Toyota,Yaris,2011,Motor,745.3,Pago,4
+2023-09-27,CLI0110,Tiago Rodrigues,Audi,A4,2021,Pneus,501.78,Pago,3
+2022-12-10,CLI0163,Carla Dias,Ford,Ranger,2014,Elétrica,575.72,Pendente,4
+2022-04-06,CLI0036,Carla Dias,Ford,Focus,2022,Alinhamento,1234.71,Pago,4
+2022-08-29,CLI0156,Felipe Gomes,BMW,Série 1,2013,Elétrica,1340.1,Pago,3
+2023-11-20,CLI0093,Ricardo Teixeira,Honda,Fit,2018,Pintura,916.59,Pago,5
+2022-11-14,CLI0140,Pedro Almeida,Volkswagen,T-Cross,2016,Freios,1157.2,Pago,1
+2022-08-19,CLI0127,Olivia Santos,Audi,A4,2023,Elétrica,545.97,Pago,4
+2022-07-23,CLI0163,Carla Dias,Audi,Q5,2016,Pneus,1079.35,Pago,1
+2022-05-31,CLI0013,Eduarda Souza,BMW,Série 1,2013,Motor,91.7,Pago,1
+2022-01-26,CLI0156,Felipe Gomes,Honda,Fit,2012,Freios,1231.13,Pago,4
+2022-02-17,CLI0092,Nuno Fernandes,Honda,HR-V,2022,Suspensão,372.42,Pago,5
+2022-09-08,CLI0059,Gabriela Lima,Audi,A3,2021,Elétrica,1292.38,Pago,2
+2023-05-02,CLI0009,Hugo Neves,Hyundai,Creta,2012,Pintura,256.42,Pago,2
+2023-09-18,CLI0040,Tiago Rodrigues,Chevrolet,Onix,2017,Pneus,378.53,Pago,4
+2022-03-16,CLI0009,Hugo Neves,Hyundai,Creta,2022,Balanceamento,231.75,Pago,3
+2023-04-12,CLI0187,Kelly Vieira,Toyota,Corolla,2010,Freios,238.82,Pago,3
+2023-03-01,CLI0104,Isabela Rocha,Audi,Q5,2012,Troca de Óleo,163.98,Pago,5
+2023-10-07,CLI0198,Ricardo Teixeira,BMW,Série 1,2016,Balanceamento,1051.69,Pago,4
+2023-08-13,CLI0109,Bruno Costa,Kia,Seltos,2017,Suspensão,1186.84,Pago,3
+2022-07-19,CLI0051,Hugo Neves,Honda,HR-V,2012,Pintura,162.72,Pendente,1
+2023-12-15,CLI0151,Eduarda Souza,Hyundai,Tucson,2023,Motor,1173.3,Pago,4
+2023-01-29,CLI0039,Maria Ribeiro,Audi,A4,2020,Pneus,1148.13,Pago,4
+2023-05-22,CLI0072,Olivia Santos,Ford,Focus,2018,Motor,111.65,Pago,2
+2023-02-14,CLI0157,Felipe Gomes,Kia,Cerato,2018,Pintura,206.34,Pago,2
+2022-09-07,CLI0174,Sofia Carvalho,Volkswagen,T-Cross,2021,Elétrica,1199.93,Pago,4
+2022-06-01,CLI0067,Luiz Martins,Chevrolet,Cruze,2015,Elétrica,794.54,Pago,1
+2023-11-03,CLI0025,Ana Silva,Hyundai,HB20,2022,Pneus,135.93,Pago,3
+2023-12-06,CLI0074,Ricardo Teixeira,Volkswagen,T-Cross,2017,Troca de Óleo,222.44,Pago,1
+2022-01-06,CLI0178,Kelly Vieira,Kia,Seltos,2014,Alinhamento,416.87,Pago,2
+2022-04-20,CLI0149,Carla Dias,Audi,A3,2014,Alinhamento,146.06,Pago,3
+2023-03-12,CLI0179,Hugo Neves,Ford,Focus,2018,Freios,1018.0,Pago,5
+2022-08-13,CLI0078,Quiteria Barbosa,Hyundai,Elantra,2023,Alinhamento,1144.1,Pago,4
+2022-06-30,CLI0195,Joao Pereira,BMW,X3,2019,Balanceamento,1184.44,Pago,2
+2023-12-14,CLI0100,Bruno Costa,Chevrolet,Onix,2010,Freios,1384.14,Pago,3
+2023-06-15,CLI0100,Bruno Costa,Audi,Q3,2016,Pneus,347.83,Pago,2
+2023-04-21,CLI0185,Olivia Santos,Mercedes-Benz,Classe A,2011,Revisão,1356.7,Pago,5
+2022-02-21,CLI0104,Isabela Rocha,Honda,Civic,2021,Elétrica,317.93,Pago,5
+2023-07-25,CLI0161,Bruno Costa,Honda,Fit,2012,Elétrica,559.72,Pendente,2
+2022-09-13,CLI0146,Quiteria Barbosa,Ford,Ranger,2010,Balanceamento,181.63,Pago,1
+2022-05-05,CLI0016,Pedro Almeida,Ford,EcoSport,2013,Alinhamento,1276.5,Pago,1
+2023-04-13,CLI0121,Kelly Vieira,Toyota,Yaris,2023,Troca de Óleo,1415.68,Pago,1
+2022-05-17,CLI0165,Joao Pereira,Chevrolet,Cruze,2014,Alinhamento,1425.75,Pago,4
+2023-04-21,CLI0110,Tiago Rodrigues,Ford,Ranger,2017,Motor,554.36,Pago,4
+2023-11-15,CLI0065,Nuno Fernandes,BMW,X1,2023,Revisão,282.81,Pago,5
+2023-06-28,CLI0017,Pedro Almeida,Chevrolet,Onix,2020,Balanceamento,775.92,Pago,1
+2023-07-27,CLI0133,Joao Pereira,Audi,Q3,2011,Elétrica,1106.4,Pago,5
+2023-09-02,CLI0062,Gabriela Lima,Ford,EcoSport,2017,Motor,400.64,Pago,2
+2022-11-21,CLI0121,Kelly Vieira,Ford,EcoSport,2021,Elétrica,876.84,Pago,4
+2023-03-30,CLI0086,Kelly Vieira,Hyundai,Creta,2015,Revisão,193.7,Pago,2
+2023-09-20,CLI0138,Ana Silva,Kia,Sportage,2014,Pintura,888.29,Pago,4
+2023-06-01,CLI0071,Daniel Melo,Mercedes-Benz,GLA,2015,Pintura,70.28,Pago,3
+2023-03-13,CLI0009,Hugo Neves,Toyota,Yaris,2015,Balanceamento,364.65,Pago,3
+2023-07-16,CLI0175,Nuno Fernandes,Kia,Cerato,2018,Suspensão,327.74,Pago,5
+2023-04-02,CLI0071,Daniel Melo,Audi,A4,2018,Revisão,458.69,Pago,5
+2022-06-12,CLI0200,Tiago Rodrigues,Kia,Rio,2022,Elétrica,1357.41,Pago,4
+2023-05-02,CLI0055,Joao Pereira,Kia,Sportage,2014,Alinhamento,828.83,Pago,5
+2023-04-06,CLI0197,Tiago Rodrigues,Hyundai,Creta,2015,Elétrica,1461.69,Pago,3
+2022-09-23,CLI0190,Ana Silva,Honda,Fit,2010,Motor,193.09,Pago,4
+2022-09-11,CLI0016,Pedro Almeida,Hyundai,Tucson,2016,Troca de Óleo,360.32,Pendente,1
+2023-10-15,CLI0128,Maria Ribeiro,Ford,Ranger,2011,Balanceamento,781.08,Pago,1
+2022-10-11,CLI0073,Carla Dias,Audi,A3,2015,Suspensão,1076.25,Pago,5
+2023-06-18,CLI0161,Bruno Costa,Hyundai,Tucson,2023,Motor,581.37,Pago,3
+2023-05-12,CLI0136,Luiz Martins,Audi,Q5,2020,Troca de Óleo,904.6,Pago,2
+2023-10-04,CLI0191,Bruno Costa,Mercedes-Benz,GLA,2019,Alinhamento,687.52,Pago,3
+2022-09-02,CLI0029,Nuno Fernandes,Volkswagen,Gol,2013,Troca de Óleo,1438.73,Pago,2
+2022-10-09,CLI0122,Quiteria Barbosa,BMW,Série 1,2019,Motor,312.23,Pago,4
+2023-03-27,CLI0157,Felipe Gomes,Ford,EcoSport,2019,Suspensão,564.49,Pago,3
+2022-03-21,CLI0007,Sofia Carvalho,Volkswagen,Virtus,2020,Pneus,600.44,Pago,1
+2024-01-01,CLI0014,Ricardo Teixeira,Volkswagen,Gol,2020,Motor,360.7,Pago,2
+2022-10-20,CLI0156,Felipe Gomes,Mercedes-Benz,GLA,2018,Pneus,379.95,Pago,4
+2022-08-29,CLI0074,Ricardo Teixeira,Hyundai,HB20,2012,Pintura,213.63,Pago,1
+2022-10-06,CLI0077,Daniel Melo,Toyota,Corolla,2022,Pneus,1477.69,Pago,1
+2022-12-10,CLI0114,Isabela Rocha,BMW,Série 1,2014,Revisão,229.24,Pago,1
+2022-11-24,CLI0122,Quiteria Barbosa,Ford,EcoSport,2015,Freios,209.96,Pago,4
+2023-07-08,CLI0136,Luiz Martins,Kia,Sportage,2015,Pneus,247.07,Pago,5
+2022-03-24,CLI0190,Ana Silva,Chevrolet,Onix,2020,Alinhamento,1155.3,Pago,4
+2022-05-22,CLI0075,Maria Ribeiro,Kia,Sportage,2018,Revisão,1071.86,Pago,3
+2022-06-04,CLI0153,Eduarda Souza,Chevrolet,Tracker,2017,Revisão,857.84,Pago,4
+2022-08-25,CLI0115,Ricardo Teixeira,Toyota,Hilux,2022,Freios,108.88,Pago,2
+2023-01-28,CLI0106,Kelly Vieira,Audi,Q5,2021,Troca de Óleo,525.77,Pago,2
+2023-12-12,CLI0080,Isabela Rocha,Audi,A4,2017,Suspensão,217.8,Pago,3
+2022-06-06,CLI0130,Hugo Neves,Audi,A4,2011,Motor,461.24,Pago,2
+2023-12-25,CLI0050,Hugo Neves,Volkswagen,Gol,2016,Freios,920.56,Pago,2
+2022-08-08,CLI0023,Joao Pereira,Mercedes-Benz,GLC,2019,Pneus,502.41,Pago,2
+2022-03-07,CLI0148,Ana Silva,Chevrolet,Cruze,2014,Pneus,1465.46,Pago,4
+2023-03-01,CLI0100,Bruno Costa,Toyota,Yaris,2017,Revisão,693.74,Pago,2
+2023-02-22,CLI0078,Quiteria Barbosa,BMW,Série 1,2020,Elétrica,853.18,Pago,5
+2022-12-05,CLI0113,Kelly Vieira,Ford,Ka,2012,Freios,471.35,Pago,1
+2023-07-10,CLI0053,Eduarda Souza,Volkswagen,T-Cross,2023,Freios,1290.28,Pago,4
+2023-04-23,CLI0053,Eduarda Souza,Ford,Focus,2012,Troca de Óleo,323.74,Pago,5
+2023-03-02,CLI0090,Ana Silva,Ford,Focus,2020,Suspensão,150.93,Pago,2
+2022-03-05,CLI0200,Tiago Rodrigues,Hyundai,Creta,2022,Pneus,1269.53,Pago,2
+2022-07-31,CLI0058,Ana Silva,Chevrolet,Onix,2015,Alinhamento,739.73,Pago,2
+2023-03-07,CLI0184,Eduarda Souza,BMW,X3,2016,Revisão,1034.74,Pago,1
+2023-02-03,CLI0099,Tiago Rodrigues,BMW,X3,2020,Alinhamento,309.98,Pago,2
+2023-08-22,CLI0025,Ana Silva,Volkswagen,Virtus,2019,Suspensão,1498.15,Pago,2
+2023-12-14,CLI0171,Ana Silva,Chevrolet,Tracker,2019,Revisão,762.89,Pago,3
+2022-01-21,CLI0091,Bruno Costa,Mercedes-Benz,Classe C,2016,Troca de Óleo,202.5,Pago,4
+2023-08-13,CLI0180,Maria Ribeiro,Toyota,Corolla,2023,Alinhamento,685.18,Pago,4
+2023-01-25,CLI0090,Ana Silva,Toyota,Hilux,2011,Revisão,1004.89,Pago,5
+2023-05-04,CLI0018,Bruno Costa,Audi,Q5,2011,Motor,173.26,Pago,1
+2022-01-07,CLI0137,Sofia Carvalho,Volkswagen,Polo,2012,Motor,257.88,Pago,2
+2022-12-27,CLI0170,Maria Ribeiro,Honda,Fit,2015,Pintura,630.91,Pago,1
+2022-11-02,CLI0064,Hugo Neves,Hyundai,HB20,2013,Suspensão,906.31,Pago,3
+2023-02-04,CLI0070,Sofia Carvalho,Volkswagen,Virtus,2015,Suspensão,197.5,Pago,1
+2023-03-06,CLI0013,Eduarda Souza,Toyota,Hilux,2015,Pneus,1391.67,Pago,4
+2023-07-06,CLI0109,Bruno Costa,Kia,Cerato,2020,Pintura,1467.89,Pago,1
+2023-07-14,CLI0179,Hugo Neves,Ford,Focus,2014,Elétrica,143.83,Pago,3
+2023-09-10,CLI0171,Ana Silva,Mercedes-Benz,GLA,2021,Suspensão,1464.05,Pago,1
+2022-08-14,CLI0143,Daniel Melo,Honda,HR-V,2014,Motor,541.02,Pago,3
+2023-05-15,CLI0186,Carla Dias,Mercedes-Benz,GLA,2019,Balanceamento,912.69,Pago,1
+2022-08-13,CLI0128,Maria Ribeiro,Honda,HR-V,2020,Elétrica,1486.46,Pago,5
+2022-10-07,CLI0159,Joao Pereira,Kia,Rio,2016,Alinhamento,228.01,Pendente,2
+2023-03-23,CLI0102,Tiago Rodrigues,Ford,Focus,2014,Revisão,1265.26,Pago,4
+2023-05-13,CLI0025,Ana Silva,Mercedes-Benz,GLA,2017,Pintura,1101.54,Pago,4
+2022-01-30,CLI0041,Luiz Martins,Ford,Focus,2022,Balanceamento,453.85,Pago,1
+2023-02-03,CLI0028,Hugo Neves,Chevrolet,Onix,2023,Alinhamento,1084.57,Pago,1
+2022-12-11,CLI0159,Joao Pereira,Kia,Seltos,2015,Alinhamento,893.78,Pago,1
+2023-11-16,CLI0006,Nuno Fernandes,Honda,Fit,2021,Suspensão,445.81,Pago,3
+2023-11-27,CLI0111,Joao Pereira,Chevrolet,S10,2019,Elétrica,1194.76,Pago,1
+2023-02-19,CLI0074,Ricardo Teixeira,Chevrolet,Cruze,2018,Alinhamento,983.56,Pago,5
+2022-06-19,CLI0161,Bruno Costa,Mercedes-Benz,Classe C,2017,Freios,630.34,Pago,1
+2023-04-24,CLI0111,Joao Pereira,Ford,Focus,2016,Freios,739.95,Pendente,1
+2022-05-11,CLI0123,Maria Ribeiro,Mercedes-Benz,GLA,2012,Pintura,924.59,Pago,2
+2023-09-30,CLI0018,Bruno Costa,Audi,Q5,2012,Suspensão,636.44,Pendente,5
+2023-07-01,CLI0062,Gabriela Lima,Toyota,Hilux,2023,Balanceamento,752.57,Pago,1
+2022-01-28,CLI0200,Tiago Rodrigues,Volkswagen,Polo,2010,Pneus,454.39,Pago,4
+2023-02-08,CLI0144,Ana Silva,Honda,HR-V,2012,Suspensão,1163.6,Pago,5
+2023-08-30,CLI0106,Kelly Vieira,Ford,Focus,2021,Suspensão,206.65,Pendente,5
+2023-08-01,CLI0154,Bruno Costa,Mercedes-Benz,GLA,2013,Elétrica,413.5,Pago,3
+2023-11-10,CLI0165,Joao Pereira,Toyota,Yaris,2020,Pintura,771.05,Pago,4
+2022-01-28,CLI0015,Pedro Almeida,Mercedes-Benz,GLA,2014,Alinhamento,961.14,Pago,4
+2022-03-27,CLI0195,Joao Pereira,Hyundai,Tucson,2021,Troca de Óleo,245.18,Pago,3
+2023-10-21,CLI0129,Olivia Santos,Kia,Cerato,2021,Alinhamento,194.42,Pago,5
+2023-03-15,CLI0090,Ana Silva,Volkswagen,Virtus,2021,Pneus,126.64,Pendente,4
+2022-05-19,CLI0137,Sofia Carvalho,Honda,Fit,2011,Alinhamento,148.93,Pago,3
+2023-04-18,CLI0069,Quiteria Barbosa,Toyota,Yaris,2013,Revisão,1033.26,Pendente,3
+2022-07-06,CLI0176,Quiteria Barbosa,Chevrolet,Tracker,2012,Elétrica,1459.51,Pago,3
+2022-02-21,CLI0157,Felipe Gomes,Audi,Q5,2016,Suspensão,604.82,Pago,3
+2022-09-24,CLI0128,Maria Ribeiro,Honda,HR-V,2011,Revisão,1034.85,Pago,2
+2023-01-24,CLI0037,Bruno Costa,Chevrolet,S10,2011,Revisão,271.47,Pago,3
+2022-12-02,CLI0194,Isabela Rocha,Hyundai,Tucson,2011,Pintura,951.85,Pago,4
+2022-08-05,CLI0087,Gabriela Lima,Honda,CR-V,2017,Elétrica,189.68,Pago,4
+2023-04-11,CLI0183,Gabriela Lima,Audi,A4,2018,Pneus,160.95,Pago,5
+2022-12-01,CLI0012,Hugo Neves,Audi,Q3,2010,Suspensão,1139.83,Pago,1
+2022-12-12,CLI0025,Ana Silva,Honda,HR-V,2010,Elétrica,1162.98,Pago,3
+2023-01-24,CLI0031,Ana Silva,Kia,Cerato,2022,Motor,1199.46,Pago,3
+2022-10-12,CLI0033,Nuno Fernandes,Honda,CR-V,2016,Alinhamento,342.8,Pago,1
+2023-03-08,CLI0065,Nuno Fernandes,BMW,X3,2018,Alinhamento,1010.04,Pago,1
+2022-09-16,CLI0142,Pedro Almeida,Toyota,Hilux,2022,Suspensão,760.86,Pago,4
+2022-03-25,CLI0070,Sofia Carvalho,Mercedes-Benz,GLC,2011,Motor,429.41,Pago,4
+2023-04-27,CLI0189,Nuno Fernandes,Volkswagen,Virtus,2011,Balanceamento,548.24,Pago,2
+2022-01-20,CLI0179,Hugo Neves,Audi,A3,2014,Pneus,1296.52,Pago,1
+2023-07-07,CLI0170,Maria Ribeiro,Mercedes-Benz,Classe A,2019,Pneus,842.6,Pago,5
+2022-02-23,CLI0051,Hugo Neves,Honda,Fit,2012,Pintura,1431.24,Pago,1
+2022-12-25,CLI0128,Maria Ribeiro,Volkswagen,T-Cross,2011,Motor,95.82,Pago,5
+2022-08-18,CLI0111,Joao Pereira,Mercedes-Benz,Classe A,2020,Elétrica,674.09,Pendente,3
+2023-10-28,CLI0026,Isabela Rocha,Hyundai,Tucson,2016,Alinhamento,1376.66,Pago,2
+2022-03-12,CLI0061,Pedro Almeida,Toyota,Corolla,2014,Elétrica,606.26,Pago,3
+2023-10-30,CLI0107,Tiago Rodrigues,Honda,Civic,2013,Motor,506.11,Pago,4
+2022-02-11,CLI0101,Ricardo Teixeira,Audi,A3,2013,Freios,595.69,Pago,5
+2022-02-01,CLI0034,Gabriela Lima,BMW,Série 1,2021,Suspensão,716.5,Pago,4
+2022-09-11,CLI0189,Nuno Fernandes,Chevrolet,S10,2014,Troca de Óleo,97.65,Pago,5
+2022-07-24,CLI0031,Ana Silva,Kia,Sportage,2017,Balanceamento,857.17,Pago,4
+2022-01-21,CLI0132,Maria Ribeiro,Chevrolet,Onix,2020,Motor,1297.52,Pendente,2
+2023-09-29,CLI0145,Carla Dias,Honda,HR-V,2012,Alinhamento,489.41,Pago,1
+2022-06-06,CLI0122,Quiteria Barbosa,Ford,Ka,2012,Motor,1073.79,Pago,3
+2022-09-02,CLI0169,Gabriela Lima,Toyota,Hilux,2018,Alinhamento,762.65,Pago,1
+2022-05-10,CLI0113,Kelly Vieira,BMW,X3,2023,Motor,245.01,Pago,3
+2023-04-30,CLI0166,Gabriela Lima,Mercedes-Benz,Classe A,2012,Pintura,1087.8,Pago,1
+2023-11-17,CLI0006,Nuno Fernandes,Mercedes-Benz,GLC,2010,Revisão,756.81,Pago,3
+2022-04-28,CLI0010,Tiago Rodrigues,Audi,A3,2010,Balanceamento,208.6,Pago,4
+2023-08-01,CLI0129,Olivia Santos,Mercedes-Benz,Classe A,2020,Troca de Óleo,1028.79,Pago,2
+2022-08-12,CLI0116,Daniel Melo,Hyundai,Creta,2015,Revisão,1007.11,Pendente,5
+2023-04-22,CLI0131,Hugo Neves,Mercedes-Benz,Classe C,2023,Pintura,1043.79,Pago,4
+2023-12-18,CLI0154,Bruno Costa,Chevrolet,Tracker,2015,Elétrica,879.7,Pago,4
+2022-09-20,CLI0084,Eduarda Souza,BMW,Série 1,2023,Pneus,740.07,Pago,5
+2023-01-13,CLI0128,Maria Ribeiro,BMW,X1,2017,Alinhamento,1288.81,Pago,1
+2022-06-21,CLI0100,Bruno Costa,Audi,Q3,2017,Suspensão,784.69,Pago,3
+2023-09-13,CLI0126,Kelly Vieira,Ford,EcoSport,2023,Troca de Óleo,617.51,Pago,4
+2023-09-14,CLI0058,Ana Silva,Toyota,Hilux,2018,Pintura,767.3,Pago,4
+2022-04-28,CLI0192,Gabriela Lima,Hyundai,Elantra,2014,Pintura,1457.76,Pago,1
+2022-06-17,CLI0097,Luiz Martins,Kia,Sportage,2018,Balanceamento,944.56,Pago,4
+2022-11-15,CLI0161,Bruno Costa,Volkswagen,T-Cross,2017,Suspensão,561.51,Pago,3
+2022-04-21,CLI0137,Sofia Carvalho,Honda,Fit,2012,Troca de Óleo,1467.79,Pago,5
+2023-08-16,CLI0060,Maria Ribeiro,Volkswagen,T-Cross,2021,Revisão,514.7,Pago,2
+2022-01-27,CLI0015,Pedro Almeida,BMW,X3,2018,Revisão,90.81,Pago,2
+2022-11-16,CLI0012,Hugo Neves,BMW,X1,2012,Motor,115.42,Pago,5
+2023-08-13,CLI0088,Ana Silva,Kia,Sportage,2019,Pneus,1263.55,Pago,5
+2023-11-25,CLI0097,Luiz Martins,Kia,Rio,2019,Motor,555.87,Pago,5
+2023-01-20,CLI0041,Luiz Martins,Kia,Cerato,2017,Revisão,1125.98,Pago,1
+2023-02-11,CLI0122,Quiteria Barbosa,Honda,Fit,2020,Suspensão,89.0,Pago,2
+2022-07-23,CLI0063,Bruno Costa,Hyundai,Creta,2021,Pneus,1342.45,Pago,4
+2022-03-19,CLI0144,Ana Silva,BMW,X3,2020,Motor,544.82,Pago,1
+2023-08-30,CLI0147,Joao Pereira,Chevrolet,S10,2019,Balanceamento,191.16,Pago,3
+2023-12-09,CLI0173,Hugo Neves,Mercedes-Benz,GLC,2016,Pneus,550.46,Pago,5
+2023-10-05,CLI0196,Daniel Melo,Audi,A4,2018,Balanceamento,568.18,Pendente,4
+2022-09-06,CLI0027,Kelly Vieira,Kia,Seltos,2020,Alinhamento,559.34,Pago,2
+2022-04-15,CLI0075,Maria Ribeiro,Audi,Q3,2020,Balanceamento,1008.8,Pago,4
+2023-12-15,CLI0113,Kelly Vieira,Toyota,Corolla,2018,Pneus,409.04,Pago,1
+2022-11-05,CLI0064,Hugo Neves,Toyota,Hilux,2014,Troca de Óleo,989.72,Pago,4
+2023-12-02,CLI0094,Daniel Melo,Ford,Ranger,2015,Troca de Óleo,909.17,Pendente,5
+2023-09-07,CLI0054,Felipe Gomes,Toyota,Corolla,2017,Balanceamento,1370.06,Pago,2
+2022-05-04,CLI0050,Hugo Neves,Toyota,RAV4,2018,Alinhamento,144.98,Pago,2
+2023-08-03,CLI0020,Gabriela Lima,Audi,A3,2013,Revisão,492.12,Pago,2
+2022-02-12,CLI0059,Gabriela Lima,BMW,Série 1,2022,Freios,539.51,Pago,2
+2022-12-22,CLI0077,Daniel Melo,Mercedes-Benz,Classe A,2011,Pneus,78.58,Pago,1
+2023-06-30,CLI0124,Quiteria Barbosa,BMW,X3,2017,Motor,522.87,Pago,1
+2023-03-15,CLI0050,Hugo Neves,Volkswagen,Polo,2014,Troca de Óleo,718.32,Pago,4
+2023-11-09,CLI0174,Sofia Carvalho,Audi,Q3,2015,Elétrica,1301.88,Pago,1
+2023-01-15,CLI0032,Eduarda Souza,Toyota,Yaris,2016,Pintura,873.67,Pago,2
+2022-03-12,CLI0066,Isabela Rocha,BMW,X1,2014,Pneus,1357.04,Pendente,3
+2023-06-03,CLI0116,Daniel Melo,Mercedes-Benz,Classe A,2012,Pintura,436.6,Pago,4
+2023-10-26,CLI0063,Bruno Costa,Ford,EcoSport,2014,Pintura,1059.14,Pago,3
+2022-12-16,CLI0153,Eduarda Souza,Chevrolet,S10,2010,Freios,902.58,Pago,2
+2022-01-13,CLI0100,Bruno Costa,BMW,X1,2010,Elétrica,1479.36,Pago,3
+2023-03-07,CLI0103,Olivia Santos,Ford,Ranger,2018,Pneus,597.72,Pago,4
+2023-05-17,CLI0100,Bruno Costa,Hyundai,Elantra,2023,Pneus,615.94,Pago,1
+2022-04-19,CLI0062,Gabriela Lima,BMW,X1,2022,Pneus,880.18,Pago,2
+2023-03-20,CLI0005,Quiteria Barbosa,Chevrolet,Tracker,2023,Pneus,1222.07,Pago,5
+2023-01-06,CLI0190,Ana Silva,Mercedes-Benz,GLA,2012,Motor,195.08,Pago,4
+2023-10-13,CLI0102,Tiago Rodrigues,Hyundai,Elantra,2015,Suspensão,1028.91,Pago,1
+2023-04-16,CLI0194,Isabela Rocha,Mercedes-Benz,Classe C,2014,Alinhamento,537.15,Pago,3
+2023-12-26,CLI0044,Isabela Rocha,Toyota,Yaris,2017,Revisão,779.01,Pago,2
+2022-06-06,CLI0071,Daniel Melo,Mercedes-Benz,GLC,2018,Pneus,1159.11,Pago,5
+2023-03-22,CLI0011,Eduarda Souza,Audi,Q3,2010,Balanceamento,542.33,Pago,5
+2022-06-30,CLI0099,Tiago Rodrigues,Hyundai,HB20,2021,Pintura,941.5,Pago,1
+2023-06-19,CLI0177,Felipe Gomes,Toyota,Hilux,2017,Revisão,576.83,Pago,3
+2023-10-29,CLI0131,Hugo Neves,Toyota,RAV4,2022,Balanceamento,682.19,Pago,4
+2022-10-04,CLI0095,Felipe Gomes,Volkswagen,T-Cross,2017,Suspensão,770.58,Pago,4
+2023-09-23,CLI0108,Bruno Costa,Volkswagen,Gol,2014,Revisão,1278.63,Pago,5
+2023-07-06,CLI0170,Maria Ribeiro,Mercedes-Benz,Classe A,2010,Troca de Óleo,1191.37,Pago,4
+2023-05-11,CLI0087,Gabriela Lima,Chevrolet,S10,2022,Troca de Óleo,1268.55,Pago,2
+2023-04-22,CLI0177,Felipe Gomes,Audi,Q3,2016,Elétrica,826.96,Pago,2
+2023-03-23,CLI0146,Quiteria Barbosa,Audi,A4,2022,Alinhamento,466.67,Pago,3
+2023-08-30,CLI0153,Eduarda Souza,Honda,CR-V,2014,Alinhamento,118.92,Pendente,1
+2022-10-02,CLI0074,Ricardo Teixeira,Audi,A4,2019,Balanceamento,1494.53,Pago,3
+2022-11-27,CLI0081,Ricardo Teixeira,Audi,A4,2013,Troca de Óleo,632.94,Pago,1
+2022-09-09,CLI0115,Ricardo Teixeira,Honda,HR-V,2022,Suspensão,377.53,Pago,1
+2022-03-30,CLI0039,Maria Ribeiro,Kia,Seltos,2010,Alinhamento,1127.19,Pago,1
+2022-10-13,CLI0111,Joao Pereira,BMW,X1,2018,Alinhamento,183.34,Pago,3
+2023-04-07,CLI0015,Pedro Almeida,Audi,A3,2015,Elétrica,1274.07,Pendente,5
+2022-09-07,CLI0101,Ricardo Teixeira,Audi,A4,2013,Suspensão,187.36,Pago,2
+2023-04-21,CLI0153,Eduarda Souza,Honda,Fit,2016,Alinhamento,538.42,Pendente,1
+2023-08-07,CLI0056,Daniel Melo,Honda,HR-V,2018,Revisão,147.54,Pago,5
+2023-09-17,CLI0198,Ricardo Teixeira,Audi,Q3,2016,Motor,1211.72,Pendente,3
+2023-11-16,CLI0137,Sofia Carvalho,Ford,Focus,2016,Motor,739.14,Pago,2
+2023-01-24,CLI0024,Olivia Santos,Hyundai,Elantra,2013,Alinhamento,354.12,Pendente,3
+2022-12-11,CLI0196,Daniel Melo,Audi,Q5,2012,Pneus,1203.7,Pago,4
+2022-01-30,CLI0079,Pedro Almeida,Toyota,Corolla,2021,Revisão,994.73,Pago,5
+2023-05-22,CLI0159,Joao Pereira,Hyundai,Tucson,2021,Suspensão,487.68,Pago,1
+2022-11-29,CLI0068,Nuno Fernandes,Ford,Ka,2020,Motor,1215.98,Pago,3
+2022-07-06,CLI0188,Kelly Vieira,Toyota,Yaris,2016,Pintura,677.72,Pago,1
+2023-05-15,CLI0151,Eduarda Souza,Audi,A3,2023,Freios,832.92,Pago,5
+2022-08-06,CLI0040,Tiago Rodrigues,BMW,X3,2016,Motor,340.11,Pago,5
+2022-12-30,CLI0102,Tiago Rodrigues,Toyota,RAV4,2013,Alinhamento,633.34,Pago,2
+2022-09-22,CLI0101,Ricardo Teixeira,Volkswagen,T-Cross,2014,Motor,956.2,Pago,4
+2022-12-15,CLI0010,Tiago Rodrigues,Chevrolet,Onix,2011,Pneus,707.18,Pago,4
+2022-10-14,CLI0028,Hugo Neves,Volkswagen,Virtus,2016,Balanceamento,1156.99,Pago,3
+2023-09-03,CLI0067,Luiz Martins,BMW,Série 3,2020,Motor,311.87,Pago,3
+2023-12-20,CLI0095,Felipe Gomes,Chevrolet,Tracker,2013,Elétrica,76.97,Pago,2
+2022-10-10,CLI0092,Nuno Fernandes,Ford,Focus,2018,Revisão,1069.83,Pago,5
+2023-07-24,CLI0122,Quiteria Barbosa,Honda,Civic,2022,Alinhamento,1300.93,Pago,5
+2022-01-11,CLI0104,Isabela Rocha,BMW,Série 3,2022,Suspensão,886.42,Pago,5
+2023-06-14,CLI0066,Isabela Rocha,Audi,A3,2019,Revisão,358.78,Pendente,2
+2022-07-15,CLI0123,Maria Ribeiro,Ford,Focus,2022,Elétrica,1445.07,Pago,1
+2022-03-29,CLI0033,Nuno Fernandes,BMW,Série 3,2021,Balanceamento,1126.2,Pago,4
+2022-09-05,CLI0199,Quiteria Barbosa,Toyota,Hilux,2020,Balanceamento,727.58,Pago,1
+2023-02-21,CLI0148,Ana Silva,Hyundai,Tucson,2014,Elétrica,1408.89,Pago,5
+2023-05-16,CLI0060,Maria Ribeiro,Ford,Focus,2014,Alinhamento,822.44,Pago,4
+2023-07-23,CLI0068,Nuno Fernandes,Volkswagen,Polo,2020,Troca de Óleo,940.91,Pago,3
+2022-09-04,CLI0166,Gabriela Lima,Chevrolet,Cruze,2021,Pintura,1165.22,Pago,2
+2023-12-09,CLI0107,Tiago Rodrigues,Honda,Civic,2018,Troca de Óleo,678.9,Pago,3
+2023-05-03,CLI0142,Pedro Almeida,Kia,Cerato,2022,Alinhamento,870.87,Pago,2
+2023-10-24,CLI0060,Maria Ribeiro,Hyundai,HB20,2014,Elétrica,958.8,Pago,4
+2023-12-30,CLI0164,Luiz Martins,BMW,Série 1,2016,Balanceamento,807.29,Pago,4
+2023-05-18,CLI0074,Ricardo Teixeira,Kia,Rio,2013,Troca de Óleo,578.2,Pago,2
+2023-04-04,CLI0135,Nuno Fernandes,Audi,A3,2023,Suspensão,264.23,Pago,5
+2022-01-18,CLI0196,Daniel Melo,Volkswagen,Gol,2011,Elétrica,268.19,Pago,3
+2022-04-06,CLI0117,Daniel Melo,Chevrolet,Onix,2012,Pneus,1043.69,Pago,2
+2022-10-29,CLI0160,Kelly Vieira,Volkswagen,Gol,2012,Troca de Óleo,485.4,Pago,1
+2022-08-15,CLI0146,Quiteria Barbosa,Audi,Q3,2014,Pneus,681.31,Pago,5
+2023-02-19,CLI0138,Ana Silva,Ford,Ka,2011,Elétrica,512.05,Pago,3
+2023-12-10,CLI0006,Nuno Fernandes,Toyota,Corolla,2020,Alinhamento,1253.81,Pago,3
+2022-09-07,CLI0095,Felipe Gomes,Chevrolet,S10,2017,Motor,143.42,Pendente,5
+2022-11-10,CLI0194,Isabela Rocha,BMW,X3,2019,Alinhamento,345.16,Pago,1
+2023-11-11,CLI0157,Felipe Gomes,Kia,Seltos,2017,Elétrica,648.04,Pago,3
+2023-08-19,CLI0156,Felipe Gomes,Honda,Fit,2014,Alinhamento,1244.38,Pago,5
+2023-01-13,CLI0116,Daniel Melo,Hyundai,Tucson,2021,Balanceamento,986.76,Pago,4
+2023-04-30,CLI0145,Carla Dias,Kia,Seltos,2019,Elétrica,421.85,Pago,2
+2023-07-21,CLI0117,Daniel Melo,Kia,Seltos,2017,Freios,921.79,Pago,4
+2023-06-28,CLI0035,Ricardo Teixeira,Toyota,Yaris,2013,Troca de Óleo,638.51,Pago,3
+2022-12-19,CLI0126,Kelly Vieira,Volkswagen,Gol,2015,Balanceamento,214.66,Pago,4
+2023-03-12,CLI0124,Quiteria Barbosa,Ford,EcoSport,2010,Elétrica,328.28,Pago,1
+2023-07-18,CLI0169,Gabriela Lima,Hyundai,HB20,2012,Elétrica,406.1,Pago,3
+2022-12-05,CLI0030,Eduarda Souza,Chevrolet,Onix,2010,Motor,1249.48,Pago,2
+2022-12-27,CLI0137,Sofia Carvalho,BMW,X1,2018,Troca de Óleo,723.03,Pago,2
+2023-12-21,CLI0007,Sofia Carvalho,Toyota,Corolla,2010,Alinhamento,861.75,Pendente,2
+2023-04-10,CLI0190,Ana Silva,Ford,Focus,2012,Revisão,682.39,Pago,1
+2022-10-05,CLI0022,Pedro Almeida,BMW,X3,2011,Troca de Óleo,988.04,Pago,2
+2022-11-10,CLI0004,Olivia Santos,Chevrolet,Onix,2014,Balanceamento,103.66,Pago,4
+2022-09-15,CLI0063,Bruno Costa,Mercedes-Benz,Classe A,2014,Pintura,281.07,Pago,4
+2022-08-25,CLI0031,Ana Silva,Volkswagen,Virtus,2012,Suspensão,247.82,Pago,3
+2022-05-04,CLI0139,Luiz Martins,BMW,X1,2021,Freios,424.68,Pago,2
+2022-07-17,CLI0083,Quiteria Barbosa,Volkswagen,Virtus,2017,Troca de Óleo,1215.13,Pago,1
+2022-11-20,CLI0155,Gabriela Lima,Audi,Q5,2021,Motor,1005.07,Pago,5
+2022-05-03,CLI0185,Olivia Santos,Honda,Fit,2010,Pintura,305.18,Pago,4
+2023-07-03,CLI0175,Nuno Fernandes,Kia,Seltos,2013,Freios,1286.16,Pago,3
+2023-12-08,CLI0148,Ana Silva,Audi,A3,2011,Revisão,1447.49,Pago,4
+2022-07-09,CLI0013,Eduarda Souza,Ford,EcoSport,2012,Freios,754.47,Pago,4
+2022-07-16,CLI0028,Hugo Neves,Toyota,Hilux,2010,Pintura,78.87,Pago,3
+2022-08-10,CLI0042,Isabela Rocha,Volkswagen,Polo,2017,Troca de Óleo,1296.4,Pago,4
+2023-05-11,CLI0066,Isabela Rocha,Ford,Ranger,2013,Revisão,171.7,Pago,4
+2022-10-11,CLI0133,Joao Pereira,Chevrolet,Cruze,2015,Revisão,922.32,Pago,1
+2023-08-27,CLI0106,Kelly Vieira,Hyundai,Elantra,2016,Motor,1307.4,Pago,5
+2023-06-22,CLI0063,Bruno Costa,Hyundai,Creta,2014,Revisão,1355.83,Pago,3
+2023-09-04,CLI0035,Ricardo Teixeira,Kia,Rio,2022,Alinhamento,640.16,Pago,3
+2022-10-17,CLI0183,Gabriela Lima,Toyota,Yaris,2022,Pintura,576.98,Pendente,2
+2022-04-13,CLI0069,Quiteria Barbosa,Mercedes-Benz,Classe C,2017,Freios,1003.27,Pago,5
+2022-07-18,CLI0071,Daniel Melo,Hyundai,Creta,2015,Elétrica,180.94,Pago,4
+2022-10-31,CLI0155,Gabriela Lima,Audi,A3,2017,Alinhamento,1417.59,Pago,1
+2022-08-21,CLI0145,Carla Dias,Honda,Civic,2021,Elétrica,1100.14,Pago,2
+2023-01-05,CLI0129,Olivia Santos,BMW,X1,2022,Pintura,253.81,Pago,3
+2022-07-03,CLI0139,Luiz Martins,Ford,EcoSport,2010,Pneus,212.3,Pago,5
+2022-11-06,CLI0123,Maria Ribeiro,Volkswagen,Gol,2015,Troca de Óleo,1115.0,Pago,1
+2022-01-15,CLI0039,Maria Ribeiro,Toyota,Yaris,2011,Revisão,1402.76,Pago,3
+2023-12-27,CLI0050,Hugo Neves,Kia,Cerato,2023,Balanceamento,806.84,Pago,4
+2023-07-01,CLI0112,Kelly Vieira,Audi,A4,2022,Revisão,1252.02,Pago,2
+2022-05-10,CLI0045,Bruno Costa,Toyota,Hilux,2012,Alinhamento,1427.03,Pago,5
+2022-10-08,CLI0195,Joao Pereira,Kia,Seltos,2010,Balanceamento,1400.76,Pago,2
+2022-02-16,CLI0060,Maria Ribeiro,Hyundai,Creta,2014,Elétrica,415.12,Pago,4
+2022-02-25,CLI0058,Ana Silva,BMW,Série 3,2022,Freios,1332.62,Pago,4
+2023-07-21,CLI0042,Isabela Rocha,Audi,Q3,2016,Alinhamento,395.21,Pago,3
+2022-10-27,CLI0141,Sofia Carvalho,Chevrolet,S10,2011,Suspensão,227.3,Pago,2
+2023-12-16,CLI0064,Hugo Neves,Kia,Rio,2018,Freios,1219.7,Pago,2
+2022-05-10,CLI0070,Sofia Carvalho,Toyota,Hilux,2017,Elétrica,527.46,Pago,2
+2023-10-16,CLI0187,Kelly Vieira,Toyota,Corolla,2012,Pneus,897.27,Pago,2
+2023-05-18,CLI0160,Kelly Vieira,Honda,HR-V,2013,Suspensão,615.43,Pago,1
+2022-04-16,CLI0055,Joao Pereira,Hyundai,HB20,2023,Elétrica,1135.14,Pendente,3
+2022-01-13,CLI0025,Ana Silva,Toyota,RAV4,2014,Revisão,392.11,Pago,5
+2023-08-11,CLI0136,Luiz Martins,BMW,X1,2023,Revisão,663.16,Pago,1
+2022-10-19,CLI0076,Carla Dias,Volkswagen,Virtus,2016,Pneus,259.2,Pago,2
+2023-04-26,CLI0197,Tiago Rodrigues,Kia,Sportage,2023,Pneus,303.97,Pago,4
+2023-05-06,CLI0164,Luiz Martins,Ford,Ka,2010,Elétrica,1456.39,Pago,4
+2023-03-28,CLI0191,Bruno Costa,Ford,Focus,2011,Elétrica,687.24,Pago,2
+2022-12-15,CLI0161,Bruno Costa,Chevrolet,S10,2022,Motor,418.74,Pago,1
+2022-07-08,CLI0059,Gabriela Lima,Hyundai,Tucson,2021,Pneus,904.75,Pago,1
+2022-02-22,CLI0058,Ana Silva,Audi,A4,2013,Elétrica,761.02,Pago,3
+2022-09-16,CLI0143,Daniel Melo,Audi,A4,2016,Alinhamento,593.32,Pago,4
+2023-05-05,CLI0070,Sofia Carvalho,Chevrolet,S10,2022,Revisão,1425.63,Pago,2
+2022-04-27,CLI0089,Ana Silva,Ford,Ranger,2017,Pintura,508.91,Pago,1
+2022-03-08,CLI0052,Carla Dias,Toyota,Corolla,2013,Troca de Óleo,664.48,Pago,1
+2023-02-15,CLI0096,Ricardo Teixeira,Ford,Ka,2021,Balanceamento,1039.97,Pago,5
+2023-05-19,CLI0041,Luiz Martins,Audi,A3,2010,Alinhamento,1446.81,Pago,3
+2022-03-17,CLI0108,Bruno Costa,BMW,Série 3,2013,Suspensão,1325.18,Pago,5
+2023-08-14,CLI0187,Kelly Vieira,Honda,CR-V,2017,Balanceamento,1408.61,Pago,4
+2023-10-07,CLI0140,Pedro Almeida,Honda,Fit,2021,Suspensão,576.35,Pago,2
+2023-12-04,CLI0028,Hugo Neves,Volkswagen,T-Cross,2022,Troca de Óleo,1087.72,Pendente,4
+2022-02-24,CLI0124,Quiteria Barbosa,Volkswagen,Virtus,2011,Balanceamento,1240.98,Pago,2
+2022-06-05,CLI0118,Joao Pereira,BMW,X3,2018,Suspensão,80.56,Pago,1
+2022-06-02,CLI0049,Tiago Rodrigues,Kia,Cerato,2020,Balanceamento,1451.87,Pago,1
+2023-07-31,CLI0134,Isabela Rocha,Ford,Ka,2013,Alinhamento,928.43,Pago,2
+2022-11-08,CLI0107,Tiago Rodrigues,Chevrolet,Tracker,2017,Balanceamento,1270.14,Pendente,4
+2022-03-29,CLI0128,Maria Ribeiro,Ford,EcoSport,2016,Pintura,1010.22,Pago,4
+2022-09-12,CLI0011,Eduarda Souza,Honda,HR-V,2020,Pneus,1414.23,Pago,3
+2022-05-02,CLI0083,Quiteria Barbosa,Honda,Civic,2014,Freios,1051.49,Pago,5
+2023-07-26,CLI0144,Ana Silva,Mercedes-Benz,Classe A,2015,Troca de Óleo,1193.76,Pendente,2
+2023-03-03,CLI0021,Olivia Santos,Hyundai,Creta,2012,Suspensão,397.53,Pago,4
+2023-09-13,CLI0155,Gabriela Lima,Mercedes-Benz,GLC,2020,Pneus,851.46,Pago,1
+2023-09-03,CLI0002,Ricardo Teixeira,Toyota,RAV4,2021,Elétrica,498.44,Pago,4
+2023-09-26,CLI0111,Joao Pereira,Hyundai,Elantra,2010,Elétrica,1439.8,Pago,4
+2022-08-20,CLI0186,Carla Dias,Chevrolet,Tracker,2021,Elétrica,576.14,Pago,3
+2023-06-20,CLI0082,Olivia Santos,Toyota,Hilux,2018,Motor,1227.76,Pago,4
+2023-01-25,CLI0188,Kelly Vieira,Ford,Ka,2018,Revisão,226.98,Pago,3
+2023-04-07,CLI0176,Quiteria Barbosa,Chevrolet,Cruze,2011,Pneus,1307.08,Pago,1
+2023-03-30,CLI0096,Ricardo Teixeira,BMW,Série 1,2014,Suspensão,1293.59,Pago,1
+2022-11-01,CLI0040,Tiago Rodrigues,Mercedes-Benz,GLA,2017,Revisão,613.28,Pago,1
+2023-08-26,CLI0193,Sofia Carvalho,Ford,Ka,2020,Motor,1369.19,Pago,1
+2023-03-16,CLI0065,Nuno Fernandes,Kia,Rio,2014,Suspensão,619.81,Pago,1
+2022-11-09,CLI0130,Hugo Neves,Toyota,RAV4,2013,Pintura,1468.09,Pago,4
+2023-08-06,CLI0182,Daniel Melo,Volkswagen,Gol,2015,Troca de Óleo,420.52,Pendente,5
+2023-09-28,CLI0018,Bruno Costa,Volkswagen,Polo,2010,Troca de Óleo,180.86,Pago,2
+2022-03-03,CLI0115,Ricardo Teixeira,Audi,A3,2023,Revisão,1242.93,Pago,1
+2023-09-17,CLI0108,Bruno Costa,Ford,Ka,2020,Alinhamento,391.42,Pago,5
+2022-04-12,CLI0145,Carla Dias,Volkswagen,Polo,2013,Freios,355.06,Pago,5
+2022-08-01,CLI0188,Kelly Vieira,Hyundai,Creta,2011,Freios,1340.86,Pendente,5
+2023-10-03,CLI0183,Gabriela Lima,Honda,CR-V,2013,Revisão,1378.04,Pago,4
+2022-08-05,CLI0036,Carla Dias,Toyota,Corolla,2020,Troca de Óleo,965.46,Pago,3
+2022-09-28,CLI0177,Felipe Gomes,Hyundai,HB20,2016,Troca de Óleo,1325.23,Pago,1
+2023-11-08,CLI0036,Carla Dias,Kia,Sportage,2015,Balanceamento,1161.77,Pago,5
+2022-03-25,CLI0184,Eduarda Souza,Honda,Civic,2010,Suspensão,639.12,Pago,2
+2022-06-10,CLI0200,Tiago Rodrigues,Hyundai,Tucson,2012,Pintura,99.13,Pago,4
+2022-09-03,CLI0080,Isabela Rocha,Chevrolet,S10,2022,Balanceamento,1306.34,Pago,4
+2022-06-27,CLI0100,Bruno Costa,Mercedes-Benz,Classe C,2014,Suspensão,1243.64,Pago,4
+2023-07-20,CLI0188,Kelly Vieira,Mercedes-Benz,Classe A,2019,Elétrica,1413.72,Pago,3
+2022-03-18,CLI0193,Sofia Carvalho,BMW,Série 1,2011,Revisão,733.08,Pago,5
+2022-06-10,CLI0186,Carla Dias,Ford,Ranger,2016,Pintura,648.79,Pago,2
+2022-01-03,CLI0176,Quiteria Barbosa,Hyundai,Elantra,2022,Revisão,1269.69,Pago,1
+2023-02-23,CLI0002,Ricardo Teixeira,Toyota,RAV4,2013,Suspensão,1090.21,Pago,3
+2023-04-07,CLI0114,Isabela Rocha,Toyota,Hilux,2010,Pintura,1321.3,Pago,1
+2023-12-07,CLI0022,Pedro Almeida,Kia,Rio,2010,Motor,1239.35,Pago,5
+2023-09-01,CLI0197,Tiago Rodrigues,Volkswagen,Polo,2019,Balanceamento,1245.38,Pago,2
+2023-04-27,CLI0057,Maria Ribeiro,Honda,Fit,2022,Pintura,1062.8,Pago,4
+2022-10-26,CLI0198,Ricardo Teixeira,Kia,Sportage,2021,Suspensão,784.19,Pago,1
+2022-02-03,CLI0109,Bruno Costa,Hyundai,Tucson,2017,Freios,560.19,Pago,4
+2022-08-26,CLI0099,Tiago Rodrigues,Chevrolet,Tracker,2021,Alinhamento,923.07,Pendente,5
+2022-10-23,CLI0188,Kelly Vieira,Toyota,Corolla,2019,Balanceamento,1229.47,Pago,5
+2023-12-25,CLI0171,Ana Silva,Volkswagen,Polo,2012,Suspensão,1119.79,Pago,5
+2022-10-17,CLI0094,Daniel Melo,Honda,HR-V,2015,Balanceamento,707.23,Pago,4
+2023-12-21,CLI0039,Maria Ribeiro,BMW,Série 3,2022,Freios,89.66,Pago,1
+2023-04-10,CLI0023,Joao Pereira,Hyundai,Tucson,2011,Alinhamento,125.54,Pago,5
+2022-03-14,CLI0033,Nuno Fernandes,Chevrolet,S10,2013,Balanceamento,980.31,Pendente,5
+2023-12-05,CLI0092,Nuno Fernandes,Toyota,Hilux,2012,Elétrica,963.73,Pago,5
+2022-08-28,CLI0052,Carla Dias,Mercedes-Benz,GLC,2017,Pneus,1196.98,Pago,1
+2022-09-28,CLI0038,Pedro Almeida,Honda,Fit,2011,Revisão,247.33,Pago,2
+2023-10-03,CLI0148,Ana Silva,Ford,Ka,2020,Troca de Óleo,630.96,Pago,1
+2023-08-27,CLI0159,Joao Pereira,Honda,Civic,2019,Elétrica,961.03,Pendente,2
+2023-11-09,CLI0114,Isabela Rocha,Ford,Ranger,2015,Pneus,504.9,Pendente,5
+2022-07-22,CLI0152,Felipe Gomes,Hyundai,Tucson,2022,Pneus,169.24,Pendente,2

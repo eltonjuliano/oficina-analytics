@@ -1,0 +1,33 @@
+Relatório Consolidado da Oficina Analytics
+
+Key Performance Indicators (KPIs):
+Total Revenue: R$ 777123.21
+Average Ticket: R$ 777.12
+Total Services Performed: 1000
+Average Customer Satisfaction (1-5): 2.98
+
+Top 10 Most Performed Services:
+tipo_servico
+Pneus            114
+Suspensão        111
+Elétrica         108
+Motor            106
+Revisão          105
+Alinhamento      102
+Troca de Óleo     96
+Balanceamento     91
+Pintura           86
+Freios            81
+
+Top 10 Vehicle Brands by Frequency:
+veiculo_marca
+BMW              108
+Toyota           107
+Chevrolet        106
+Volkswagen       101
+Audi             100
+Honda             98
+Ford              97
+Mercedes-Benz     95
+Hyundai           94
+Kia               94
